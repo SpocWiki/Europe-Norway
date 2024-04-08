@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.48] 
-[geo-lat::58.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.48] 
+[has_place_latitude::58.02] 
 [name::Mandal] 
 State ::  
 Country :: [[Norway]]  

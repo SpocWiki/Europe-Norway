@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.05] 
-[geo-lat::57.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.05] 
+[has_place_latitude::57.97] 
 [name::Lindesnaes] 
 State ::  
 Country :: [[Norway]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.78] 
-[geo-lat::70.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.78] 
+[has_place_latitude::70.07] 
 [name::Vadsoe] 
 State ::  
 Country :: [[Norway]]  

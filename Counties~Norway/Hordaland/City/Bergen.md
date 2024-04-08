@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.3] 
-[geo-lat::60.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.3] 
+[has_place_latitude::60.4] 
 [name::Bergen] 
 State ::  
 Country :: [[Norway]]  

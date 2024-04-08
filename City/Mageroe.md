@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.83] 
-[geo-lat::71.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.83] 
+[has_place_latitude::71.27] 
 [name::Mageroe] 
 State ::  
 Country :: [[Norway]]  

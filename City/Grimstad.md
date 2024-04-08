@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.6] 
-[geo-lat::58.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.6] 
+[has_place_latitude::58.32] 
 [name::Grimstad] 
 State ::  
 Country :: [[Norway]]  

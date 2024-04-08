@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.43] 
-[geo-lat::68.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.43] 
+[has_place_latitude::68.43] 
 [name::Narvik] 
 State ::  
 Country :: [[Norway]]  

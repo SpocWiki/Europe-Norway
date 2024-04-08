@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.25] 
-[geo-lat::63.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.25] 
+[has_place_latitude::63.67] 
 [name::Froejen] 
 State ::  
 Country :: [[Norway]]  

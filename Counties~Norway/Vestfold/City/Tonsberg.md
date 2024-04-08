@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.43] 
-[geo-lat::59.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.43] 
+[has_place_latitude::59.27] 
 [name::Tonsberg] 
 State ::  
 Country :: [[Norway]]  

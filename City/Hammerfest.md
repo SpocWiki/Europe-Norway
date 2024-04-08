@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.67] 
-[geo-lat::70.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.67] 
+[has_place_latitude::70.67] 
 [name::Hammerfest] 
 State ::  
 Country :: [[Norway]]  
