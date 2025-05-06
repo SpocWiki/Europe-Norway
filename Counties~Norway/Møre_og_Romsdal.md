@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Møre_og_Romsdal
+- Møre og Romsdal
 
 Languages:
 - de

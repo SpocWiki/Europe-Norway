@@ -1,16 +1,19 @@
 ---
-location: [60.4,5.3] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 60.4
+  - 5.3
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29116
 isDeleted: false
 confidential: public
-
+aliases:
+  - Bergen
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

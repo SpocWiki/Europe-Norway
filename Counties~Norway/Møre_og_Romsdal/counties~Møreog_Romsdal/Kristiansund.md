@@ -1,16 +1,20 @@
 ---
-location: [63.12,7.72] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 63.12
+  - 7.72
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
-SpocWebEntityId: 29605
+  - geo/City
+SpocWebEntityId: 
+- 29605
 isDeleted: false
 confidential: public
-
+aliases:
+  - Christiansund
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [58.43,6] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 58.43
+  - 6
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30016
 isDeleted: false
 confidential: public
-
+aliases:
+  - Ekersund
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

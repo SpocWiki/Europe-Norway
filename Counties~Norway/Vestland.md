@@ -5,7 +5,7 @@
 ## #has_/text_of_/abstract 
 
 > **Vestland** is a county in Norway. 
-> The county is located in Western Norway, and its administrative centre is [[Vestland/Hordaland/counties~Hordaland/Bergen/City/Bergen|Bergen]], 
+> The county is located in Western Norway, and its administrative centre is [[Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City|Bergen,City]], 
 > where the executive and political leadership is based. 
 > The County Governor is based in Hermansverk. 
 > Vestland is one of two counties in Norway that have Nynorsk as their official written language form.

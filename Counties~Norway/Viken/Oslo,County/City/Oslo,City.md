@@ -1,16 +1,19 @@
 ---
-location: [59.91,10.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 59.91
+  - 10.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33159
 isDeleted: false
 confidential: public
-
+aliases:
+  - Oslo
 ---
 
 
