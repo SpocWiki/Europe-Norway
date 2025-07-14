@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Narvik.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.public.md) 
+### [Narvik](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Narvik.md) 
 
-### [Narvik.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.internal.md) 
+### [Narvik.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Narvik.public.md) 
 
-### [Narvik.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.protect.md) 
+### [Narvik.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Narvik.internal.md) 
 
-### [Narvik.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.private.md) 
+### [Narvik.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Narvik.protect.md) 
 
-### [Narvik.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.personal.md) 
+### [Narvik.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Narvik.private.md) 
 
-### [Narvik.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.secret.md)
+### [Narvik.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Narvik.personal.md) 
+
+### [Narvik.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Narvik.secret.md)
 

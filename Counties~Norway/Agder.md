@@ -14,19 +14,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Agder)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Agder.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayAgder.public.md) 
+### [Agder](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.md) 
 
-### [Agder.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayAgder.internal.md) 
+### [Agder.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.public.md) 
 
-### [Agder.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayAgder.protect.md) 
+### [Agder.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.internal.md) 
 
-### [Agder.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayAgder.private.md) 
+### [Agder.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.protect.md) 
 
-### [Agder.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayAgder.personal.md) 
+### [Agder.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.private.md) 
 
-### [Agder.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayAgder.secret.md)
+### [Agder.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.personal.md) 
+
+### [Agder.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.secret.md)
 

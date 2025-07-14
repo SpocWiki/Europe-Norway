@@ -44,15 +44,17 @@ markerFolder: ./Aust-Agder/
 
 ## Confidential Links & Embeds: 
 
-### [Aust-Agder.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\AgderAust-Agder.public.md) 
+### [Aust-Agder](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Aust-Agder.md) 
 
-### [Aust-Agder.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\AgderAust-Agder.internal.md) 
+### [Aust-Agder.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Aust-Agder.public.md) 
 
-### [Aust-Agder.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\AgderAust-Agder.protect.md) 
+### [Aust-Agder.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Aust-Agder.internal.md) 
 
-### [Aust-Agder.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\AgderAust-Agder.private.md) 
+### [Aust-Agder.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Aust-Agder.protect.md) 
 
-### [Aust-Agder.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\AgderAust-Agder.personal.md) 
+### [Aust-Agder.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Aust-Agder.private.md) 
 
-### [Aust-Agder.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\AgderAust-Agder.secret.md)
+### [Aust-Agder.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Aust-Agder.personal.md) 
+
+### [Aust-Agder.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Aust-Agder.secret.md)
 

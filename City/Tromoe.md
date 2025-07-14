@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tromoe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.public.md) 
+### [Tromoe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Tromoe.md) 
 
-### [Tromoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.internal.md) 
+### [Tromoe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Tromoe.public.md) 
 
-### [Tromoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.protect.md) 
+### [Tromoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Tromoe.internal.md) 
 
-### [Tromoe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.private.md) 
+### [Tromoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Tromoe.protect.md) 
 
-### [Tromoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.personal.md) 
+### [Tromoe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Tromoe.private.md) 
 
-### [Tromoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.secret.md)
+### [Tromoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Tromoe.personal.md) 
+
+### [Tromoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Tromoe.secret.md)
 

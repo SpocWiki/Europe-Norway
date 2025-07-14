@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Christiania.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityChristiania.public.md) 
+### [Christiania](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Christiania.md) 
 
-### [Christiania.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityChristiania.internal.md) 
+### [Christiania.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Christiania.public.md) 
 
-### [Christiania.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityChristiania.protect.md) 
+### [Christiania.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Christiania.internal.md) 
 
-### [Christiania.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityChristiania.private.md) 
+### [Christiania.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Christiania.protect.md) 
 
-### [Christiania.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityChristiania.personal.md) 
+### [Christiania.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Christiania.private.md) 
 
-### [Christiania.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityChristiania.secret.md)
+### [Christiania.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Christiania.personal.md) 
+
+### [Christiania.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Christiania.secret.md)
 

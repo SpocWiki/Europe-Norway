@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergen,City.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.public.md) 
+### [Bergen,City](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.md) 
 
-### [Bergen,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.internal.md) 
+### [Bergen,City.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.public.md) 
 
-### [Bergen,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.protect.md) 
+### [Bergen,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.internal.md) 
 
-### [Bergen,City.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.private.md) 
+### [Bergen,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.protect.md) 
 
-### [Bergen,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.personal.md) 
+### [Bergen,City.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.private.md) 
 
-### [Bergen,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.secret.md)
+### [Bergen,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.personal.md) 
+
+### [Bergen,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.secret.md)
 

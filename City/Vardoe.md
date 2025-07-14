@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vardoe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityVardoe.public.md) 
+### [Vardoe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.md) 
 
-### [Vardoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityVardoe.internal.md) 
+### [Vardoe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.public.md) 
 
-### [Vardoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityVardoe.protect.md) 
+### [Vardoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.internal.md) 
 
-### [Vardoe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityVardoe.private.md) 
+### [Vardoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.protect.md) 
 
-### [Vardoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityVardoe.personal.md) 
+### [Vardoe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.private.md) 
 
-### [Vardoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityVardoe.secret.md)
+### [Vardoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.personal.md) 
+
+### [Vardoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Namsos.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Nord\CityNamsos.public.md) 
+### [Namsos](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Nord/City/Namsos.md) 
 
-### [Namsos.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Nord\CityNamsos.internal.md) 
+### [Namsos.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Nord/City/Namsos.public.md) 
 
-### [Namsos.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Nord\CityNamsos.protect.md) 
+### [Namsos.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Nord/City/Namsos.internal.md) 
 
-### [Namsos.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Nord\CityNamsos.private.md) 
+### [Namsos.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Nord/City/Namsos.protect.md) 
 
-### [Namsos.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Nord\CityNamsos.personal.md) 
+### [Namsos.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Nord/City/Namsos.private.md) 
 
-### [Namsos.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Nord\CityNamsos.secret.md)
+### [Namsos.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Nord/City/Namsos.personal.md) 
+
+### [Namsos.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Nord/City/Namsos.secret.md)
 

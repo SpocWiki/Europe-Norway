@@ -41,15 +41,17 @@ markerFolder: ./Svalbard/
 
 ## Confidential Links & Embeds: 
 
-### [Svalbard.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwaySvalbard.public.md) 
+### [Svalbard](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.md) 
 
-### [Svalbard.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwaySvalbard.internal.md) 
+### [Svalbard.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.public.md) 
 
-### [Svalbard.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwaySvalbard.protect.md) 
+### [Svalbard.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.internal.md) 
 
-### [Svalbard.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwaySvalbard.private.md) 
+### [Svalbard.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.protect.md) 
 
-### [Svalbard.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwaySvalbard.personal.md) 
+### [Svalbard.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.private.md) 
 
-### [Svalbard.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwaySvalbard.secret.md)
+### [Svalbard.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.personal.md) 
+
+### [Svalbard.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.secret.md)
 

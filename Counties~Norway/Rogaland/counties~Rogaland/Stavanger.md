@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stavanger.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.public.md) 
+### [Stavanger](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger.md) 
 
-### [Stavanger.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.internal.md) 
+### [Stavanger.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger.public.md) 
 
-### [Stavanger.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.protect.md) 
+### [Stavanger.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger.internal.md) 
 
-### [Stavanger.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.private.md) 
+### [Stavanger.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger.protect.md) 
 
-### [Stavanger.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.personal.md) 
+### [Stavanger.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger.private.md) 
 
-### [Stavanger.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.secret.md)
+### [Stavanger.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger.personal.md) 
+
+### [Stavanger.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger.secret.md)
 

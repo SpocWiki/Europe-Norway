@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kongsberg.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityKongsberg.public.md) 
+### [Kongsberg](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.md) 
 
-### [Kongsberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityKongsberg.internal.md) 
+### [Kongsberg.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.public.md) 
 
-### [Kongsberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityKongsberg.protect.md) 
+### [Kongsberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.internal.md) 
 
-### [Kongsberg.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityKongsberg.private.md) 
+### [Kongsberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.protect.md) 
 
-### [Kongsberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityKongsberg.personal.md) 
+### [Kongsberg.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.private.md) 
 
-### [Kongsberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityKongsberg.secret.md)
+### [Kongsberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.personal.md) 
+
+### [Kongsberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.secret.md)
 

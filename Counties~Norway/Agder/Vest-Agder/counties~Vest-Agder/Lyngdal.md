@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lyngdal.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderLyngdal.public.md) 
+### [Lyngdal](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.md) 
 
-### [Lyngdal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderLyngdal.internal.md) 
+### [Lyngdal.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.public.md) 
 
-### [Lyngdal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderLyngdal.protect.md) 
+### [Lyngdal.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.internal.md) 
 
-### [Lyngdal.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderLyngdal.private.md) 
+### [Lyngdal.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.protect.md) 
 
-### [Lyngdal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderLyngdal.personal.md) 
+### [Lyngdal.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.private.md) 
 
-### [Lyngdal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderLyngdal.secret.md)
+### [Lyngdal.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.personal.md) 
+
+### [Lyngdal.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.secret.md)
 

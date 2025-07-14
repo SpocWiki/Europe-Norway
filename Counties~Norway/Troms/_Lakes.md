@@ -41,15 +41,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms_Lakes.public.md) 
+### [_Lakes](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/_Lakes.md) 
 
-### [_Lakes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms_Lakes.internal.md) 
+### [_Lakes.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/_Lakes.public.md) 
 
-### [_Lakes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms_Lakes.protect.md) 
+### [_Lakes.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/_Lakes.internal.md) 
 
-### [_Lakes.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms_Lakes.private.md) 
+### [_Lakes.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/_Lakes.protect.md) 
 
-### [_Lakes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms_Lakes.personal.md) 
+### [_Lakes.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/_Lakes.private.md) 
 
-### [_Lakes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms_Lakes.secret.md)
+### [_Lakes.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/_Lakes.personal.md) 
+
+### [_Lakes.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/_Lakes.secret.md)
 

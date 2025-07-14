@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utsjoki.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityUtsjoki.public.md) 
+### [Utsjoki](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.md) 
 
-### [Utsjoki.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityUtsjoki.internal.md) 
+### [Utsjoki.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.public.md) 
 
-### [Utsjoki.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityUtsjoki.protect.md) 
+### [Utsjoki.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.internal.md) 
 
-### [Utsjoki.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityUtsjoki.private.md) 
+### [Utsjoki.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.protect.md) 
 
-### [Utsjoki.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityUtsjoki.personal.md) 
+### [Utsjoki.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.private.md) 
 
-### [Utsjoki.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityUtsjoki.secret.md)
+### [Utsjoki.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.personal.md) 
+
+### [Utsjoki.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.secret.md)
 

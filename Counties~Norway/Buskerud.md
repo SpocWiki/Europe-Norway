@@ -41,15 +41,17 @@ markerFolder: ./Buskerud/
 
 ## Confidential Links & Embeds: 
 
-### [Buskerud.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayBuskerud.public.md) 
+### [Buskerud](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud.md) 
 
-### [Buskerud.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayBuskerud.internal.md) 
+### [Buskerud.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud.public.md) 
 
-### [Buskerud.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayBuskerud.protect.md) 
+### [Buskerud.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud.internal.md) 
 
-### [Buskerud.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayBuskerud.private.md) 
+### [Buskerud.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud.protect.md) 
 
-### [Buskerud.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayBuskerud.personal.md) 
+### [Buskerud.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud.private.md) 
 
-### [Buskerud.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayBuskerud.secret.md)
+### [Buskerud.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud.personal.md) 
+
+### [Buskerud.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud.secret.md)
 

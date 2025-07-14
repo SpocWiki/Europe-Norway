@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flekkeroe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityFlekkeroe.public.md) 
+### [Flekkeroe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.md) 
 
-### [Flekkeroe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityFlekkeroe.internal.md) 
+### [Flekkeroe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.public.md) 
 
-### [Flekkeroe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityFlekkeroe.protect.md) 
+### [Flekkeroe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.internal.md) 
 
-### [Flekkeroe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityFlekkeroe.private.md) 
+### [Flekkeroe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.protect.md) 
 
-### [Flekkeroe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityFlekkeroe.personal.md) 
+### [Flekkeroe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.private.md) 
 
-### [Flekkeroe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityFlekkeroe.secret.md)
+### [Flekkeroe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.personal.md) 
+
+### [Flekkeroe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.secret.md)
 

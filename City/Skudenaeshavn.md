@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skudenaeshavn.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.public.md) 
+### [Skudenaeshavn](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.md) 
 
-### [Skudenaeshavn.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.internal.md) 
+### [Skudenaeshavn.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.public.md) 
 
-### [Skudenaeshavn.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.protect.md) 
+### [Skudenaeshavn.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.internal.md) 
 
-### [Skudenaeshavn.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.private.md) 
+### [Skudenaeshavn.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.protect.md) 
 
-### [Skudenaeshavn.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.personal.md) 
+### [Skudenaeshavn.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.private.md) 
 
-### [Skudenaeshavn.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.secret.md)
+### [Skudenaeshavn.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.personal.md) 
+
+### [Skudenaeshavn.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.secret.md)
 

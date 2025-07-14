@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mandal.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderMandal.public.md) 
+### [Mandal](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.md) 
 
-### [Mandal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderMandal.internal.md) 
+### [Mandal.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.public.md) 
 
-### [Mandal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderMandal.protect.md) 
+### [Mandal.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.internal.md) 
 
-### [Mandal.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderMandal.private.md) 
+### [Mandal.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.protect.md) 
 
-### [Mandal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderMandal.personal.md) 
+### [Mandal.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.private.md) 
 
-### [Mandal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\counties~Vest-AgderMandal.secret.md)
+### [Mandal.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.personal.md) 
+
+### [Mandal.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.secret.md)
 

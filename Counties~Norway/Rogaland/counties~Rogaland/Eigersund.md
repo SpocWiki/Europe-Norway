@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eigersund.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandEigersund.public.md) 
+### [Eigersund](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.md) 
 
-### [Eigersund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandEigersund.internal.md) 
+### [Eigersund.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.public.md) 
 
-### [Eigersund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandEigersund.protect.md) 
+### [Eigersund.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.internal.md) 
 
-### [Eigersund.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandEigersund.private.md) 
+### [Eigersund.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.protect.md) 
 
-### [Eigersund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandEigersund.personal.md) 
+### [Eigersund.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.private.md) 
 
-### [Eigersund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandEigersund.secret.md)
+### [Eigersund.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.personal.md) 
+
+### [Eigersund.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.secret.md)
 

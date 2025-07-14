@@ -41,15 +41,17 @@ markerFolder: ./Nordland/
 
 ## Confidential Links & Embeds: 
 
-### [Nordland.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayNordland.public.md) 
+### [Nordland](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Nordland.md) 
 
-### [Nordland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayNordland.internal.md) 
+### [Nordland.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Nordland.public.md) 
 
-### [Nordland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayNordland.protect.md) 
+### [Nordland.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Nordland.internal.md) 
 
-### [Nordland.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayNordland.private.md) 
+### [Nordland.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Nordland.protect.md) 
 
-### [Nordland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayNordland.personal.md) 
+### [Nordland.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Nordland.private.md) 
 
-### [Nordland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayNordland.secret.md)
+### [Nordland.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Nordland.personal.md) 
+
+### [Nordland.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Nordland.secret.md)
 

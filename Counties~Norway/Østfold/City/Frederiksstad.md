@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frederiksstad.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.public.md) 
+### [Frederiksstad](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.md) 
 
-### [Frederiksstad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.internal.md) 
+### [Frederiksstad.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.public.md) 
 
-### [Frederiksstad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.protect.md) 
+### [Frederiksstad.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.internal.md) 
 
-### [Frederiksstad.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.private.md) 
+### [Frederiksstad.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.protect.md) 
 
-### [Frederiksstad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.personal.md) 
+### [Frederiksstad.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.private.md) 
 
-### [Frederiksstad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.secret.md)
+### [Frederiksstad.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.personal.md) 
+
+### [Frederiksstad.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.secret.md)
 

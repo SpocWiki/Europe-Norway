@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Molde.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalMolde.public.md) 
+### [Molde](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Molde.md) 
 
-### [Molde.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalMolde.internal.md) 
+### [Molde.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Molde.public.md) 
 
-### [Molde.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalMolde.protect.md) 
+### [Molde.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Molde.internal.md) 
 
-### [Molde.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalMolde.private.md) 
+### [Molde.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Molde.protect.md) 
 
-### [Molde.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalMolde.personal.md) 
+### [Molde.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Molde.private.md) 
 
-### [Molde.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalMolde.secret.md)
+### [Molde.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Molde.personal.md) 
+
+### [Molde.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Molde.secret.md)
 

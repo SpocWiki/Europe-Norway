@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tarvestad.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.public.md) 
+### [Tarvestad](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Tarvestad.md) 
 
-### [Tarvestad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.internal.md) 
+### [Tarvestad.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Tarvestad.public.md) 
 
-### [Tarvestad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.protect.md) 
+### [Tarvestad.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Tarvestad.internal.md) 
 
-### [Tarvestad.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.private.md) 
+### [Tarvestad.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Tarvestad.protect.md) 
 
-### [Tarvestad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.personal.md) 
+### [Tarvestad.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Tarvestad.private.md) 
 
-### [Tarvestad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.secret.md)
+### [Tarvestad.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Tarvestad.personal.md) 
+
+### [Tarvestad.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Tarvestad.secret.md)
 

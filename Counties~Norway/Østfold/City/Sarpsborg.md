@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sarpsborg.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CitySarpsborg.public.md) 
+### [Sarpsborg](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Sarpsborg.md) 
 
-### [Sarpsborg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CitySarpsborg.internal.md) 
+### [Sarpsborg.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Sarpsborg.public.md) 
 
-### [Sarpsborg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CitySarpsborg.protect.md) 
+### [Sarpsborg.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Sarpsborg.internal.md) 
 
-### [Sarpsborg.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CitySarpsborg.private.md) 
+### [Sarpsborg.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Sarpsborg.protect.md) 
 
-### [Sarpsborg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CitySarpsborg.personal.md) 
+### [Sarpsborg.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Sarpsborg.private.md) 
 
-### [Sarpsborg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CitySarpsborg.secret.md)
+### [Sarpsborg.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Sarpsborg.personal.md) 
+
+### [Sarpsborg.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Sarpsborg.secret.md)
 

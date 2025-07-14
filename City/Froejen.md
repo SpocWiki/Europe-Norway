@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Froejen.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.public.md) 
+### [Froejen](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Froejen.md) 
 
-### [Froejen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.internal.md) 
+### [Froejen.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Froejen.public.md) 
 
-### [Froejen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.protect.md) 
+### [Froejen.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Froejen.internal.md) 
 
-### [Froejen.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.private.md) 
+### [Froejen.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Froejen.protect.md) 
 
-### [Froejen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.personal.md) 
+### [Froejen.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Froejen.private.md) 
 
-### [Froejen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.secret.md)
+### [Froejen.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Froejen.personal.md) 
+
+### [Froejen.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Froejen.secret.md)
 

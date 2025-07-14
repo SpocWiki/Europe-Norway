@@ -39,15 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kristiansund.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.public.md) 
+### [Kristiansund](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.md) 
 
-### [Kristiansund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.internal.md) 
+### [Kristiansund.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.public.md) 
 
-### [Kristiansund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.protect.md) 
+### [Kristiansund.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.internal.md) 
 
-### [Kristiansund.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.private.md) 
+### [Kristiansund.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.protect.md) 
 
-### [Kristiansund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.personal.md) 
+### [Kristiansund.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.private.md) 
 
-### [Kristiansund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.secret.md)
+### [Kristiansund.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.personal.md) 
+
+### [Kristiansund.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.secret.md)
 

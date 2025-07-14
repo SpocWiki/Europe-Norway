@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Andesnes.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityAndesnes.public.md) 
+### [Andesnes](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Andesnes.md) 
 
-### [Andesnes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityAndesnes.internal.md) 
+### [Andesnes.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Andesnes.public.md) 
 
-### [Andesnes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityAndesnes.protect.md) 
+### [Andesnes.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Andesnes.internal.md) 
 
-### [Andesnes.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityAndesnes.private.md) 
+### [Andesnes.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Andesnes.protect.md) 
 
-### [Andesnes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityAndesnes.personal.md) 
+### [Andesnes.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Andesnes.private.md) 
 
-### [Andesnes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityAndesnes.secret.md)
+### [Andesnes.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Andesnes.personal.md) 
+
+### [Andesnes.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Andesnes.secret.md)
 

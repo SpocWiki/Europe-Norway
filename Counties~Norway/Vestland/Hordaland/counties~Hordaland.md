@@ -8,15 +8,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [counties~Hordaland.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordalandcounties~Hordaland.public.md) 
+### [counties~Hordaland](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.md) 
 
-### [counties~Hordaland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordalandcounties~Hordaland.internal.md) 
+### [counties~Hordaland.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.public.md) 
 
-### [counties~Hordaland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordalandcounties~Hordaland.protect.md) 
+### [counties~Hordaland.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.internal.md) 
 
-### [counties~Hordaland.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordalandcounties~Hordaland.private.md) 
+### [counties~Hordaland.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.protect.md) 
 
-### [counties~Hordaland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordalandcounties~Hordaland.personal.md) 
+### [counties~Hordaland.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.private.md) 
 
-### [counties~Hordaland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordalandcounties~Hordaland.secret.md)
+### [counties~Hordaland.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.personal.md) 
+
+### [counties~Hordaland.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.secret.md)
 

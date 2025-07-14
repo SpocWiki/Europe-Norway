@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halden.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityHalden.public.md) 
+### [Halden](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.md) 
 
-### [Halden.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityHalden.internal.md) 
+### [Halden.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.public.md) 
 
-### [Halden.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityHalden.protect.md) 
+### [Halden.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.internal.md) 
 
-### [Halden.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityHalden.private.md) 
+### [Halden.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.protect.md) 
 
-### [Halden.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityHalden.personal.md) 
+### [Halden.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.private.md) 
 
-### [Halden.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityHalden.secret.md)
+### [Halden.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.personal.md) 
+
+### [Halden.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.secret.md)
 

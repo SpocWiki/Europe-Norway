@@ -37,15 +37,17 @@ Continent :: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Svalbard_and_Jan_Mayen~Islands.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\SvalbardSvalbard_and_Jan_Mayen~Islands.public.md) 
+### [Svalbard_and_Jan_Mayen~Islands](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard/Svalbard_and_Jan_Mayen~Islands.md) 
 
-### [Svalbard_and_Jan_Mayen~Islands.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\SvalbardSvalbard_and_Jan_Mayen~Islands.internal.md) 
+### [Svalbard_and_Jan_Mayen~Islands.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard/Svalbard_and_Jan_Mayen~Islands.public.md) 
 
-### [Svalbard_and_Jan_Mayen~Islands.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\SvalbardSvalbard_and_Jan_Mayen~Islands.protect.md) 
+### [Svalbard_and_Jan_Mayen~Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard/Svalbard_and_Jan_Mayen~Islands.internal.md) 
 
-### [Svalbard_and_Jan_Mayen~Islands.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\SvalbardSvalbard_and_Jan_Mayen~Islands.private.md) 
+### [Svalbard_and_Jan_Mayen~Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard/Svalbard_and_Jan_Mayen~Islands.protect.md) 
 
-### [Svalbard_and_Jan_Mayen~Islands.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\SvalbardSvalbard_and_Jan_Mayen~Islands.personal.md) 
+### [Svalbard_and_Jan_Mayen~Islands.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard/Svalbard_and_Jan_Mayen~Islands.private.md) 
 
-### [Svalbard_and_Jan_Mayen~Islands.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\SvalbardSvalbard_and_Jan_Mayen~Islands.secret.md)
+### [Svalbard_and_Jan_Mayen~Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard/Svalbard_and_Jan_Mayen~Islands.personal.md) 
+
+### [Svalbard_and_Jan_Mayen~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard/Svalbard_and_Jan_Mayen~Islands.secret.md)
 

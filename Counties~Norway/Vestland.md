@@ -16,19 +16,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Vestland)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Vestland.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayVestland.public.md) 
+### [Vestland](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.md) 
 
-### [Vestland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayVestland.internal.md) 
+### [Vestland.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.public.md) 
 
-### [Vestland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayVestland.protect.md) 
+### [Vestland.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.internal.md) 
 
-### [Vestland.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayVestland.private.md) 
+### [Vestland.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.protect.md) 
 
-### [Vestland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayVestland.personal.md) 
+### [Vestland.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.private.md) 
 
-### [Vestland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayVestland.secret.md)
+### [Vestland.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.personal.md) 
+
+### [Vestland.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.secret.md)
 

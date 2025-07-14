@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krageroe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityKrageroe.public.md) 
+### [Krageroe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.md) 
 
-### [Krageroe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityKrageroe.internal.md) 
+### [Krageroe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.public.md) 
 
-### [Krageroe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityKrageroe.protect.md) 
+### [Krageroe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.internal.md) 
 
-### [Krageroe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityKrageroe.private.md) 
+### [Krageroe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.protect.md) 
 
-### [Krageroe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityKrageroe.personal.md) 
+### [Krageroe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.private.md) 
 
-### [Krageroe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityKrageroe.secret.md)
+### [Krageroe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.personal.md) 
+
+### [Krageroe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaagsoe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.public.md) 
+### [Vaagsoe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Vaagsoe.md) 
 
-### [Vaagsoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.internal.md) 
+### [Vaagsoe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Vaagsoe.public.md) 
 
-### [Vaagsoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.protect.md) 
+### [Vaagsoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Vaagsoe.internal.md) 
 
-### [Vaagsoe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.private.md) 
+### [Vaagsoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Vaagsoe.protect.md) 
 
-### [Vaagsoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.personal.md) 
+### [Vaagsoe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Vaagsoe.private.md) 
 
-### [Vaagsoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.secret.md)
+### [Vaagsoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Vaagsoe.personal.md) 
+
+### [Vaagsoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Vaagsoe.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hammerfest.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityHammerfest.public.md) 
+### [Hammerfest](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.md) 
 
-### [Hammerfest.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityHammerfest.internal.md) 
+### [Hammerfest.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.public.md) 
 
-### [Hammerfest.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityHammerfest.protect.md) 
+### [Hammerfest.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.internal.md) 
 
-### [Hammerfest.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityHammerfest.private.md) 
+### [Hammerfest.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.protect.md) 
 
-### [Hammerfest.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityHammerfest.personal.md) 
+### [Hammerfest.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.private.md) 
 
-### [Hammerfest.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityHammerfest.secret.md)
+### [Hammerfest.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.personal.md) 
+
+### [Hammerfest.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.secret.md)
 

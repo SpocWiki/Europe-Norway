@@ -40,15 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kristiansand.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityKristiansand.public.md) 
+### [Kristiansand](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/City/Kristiansand.md) 
 
-### [Kristiansand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityKristiansand.internal.md) 
+### [Kristiansand.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/City/Kristiansand.public.md) 
 
-### [Kristiansand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityKristiansand.protect.md) 
+### [Kristiansand.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/City/Kristiansand.internal.md) 
 
-### [Kristiansand.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityKristiansand.private.md) 
+### [Kristiansand.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/City/Kristiansand.protect.md) 
 
-### [Kristiansand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityKristiansand.personal.md) 
+### [Kristiansand.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/City/Kristiansand.private.md) 
 
-### [Kristiansand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityKristiansand.secret.md)
+### [Kristiansand.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/City/Kristiansand.personal.md) 
+
+### [Kristiansand.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/City/Kristiansand.secret.md)
 

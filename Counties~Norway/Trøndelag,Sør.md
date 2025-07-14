@@ -41,15 +41,17 @@ markerFolder: ./Sør-Trøndelag/
 
 ## Confidential Links & Embeds: 
 
-### [Trøndelag,Sør.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayTrøndelag,Sør.public.md) 
+### [Trøndelag,Sør](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør.md) 
 
-### [Trøndelag,Sør.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayTrøndelag,Sør.internal.md) 
+### [Trøndelag,Sør.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør.public.md) 
 
-### [Trøndelag,Sør.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayTrøndelag,Sør.protect.md) 
+### [Trøndelag,Sør.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør.internal.md) 
 
-### [Trøndelag,Sør.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayTrøndelag,Sør.private.md) 
+### [Trøndelag,Sør.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør.protect.md) 
 
-### [Trøndelag,Sør.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayTrøndelag,Sør.personal.md) 
+### [Trøndelag,Sør.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør.private.md) 
 
-### [Trøndelag,Sør.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayTrøndelag,Sør.secret.md)
+### [Trøndelag,Sør.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør.personal.md) 
+
+### [Trøndelag,Sør.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør.secret.md)
 

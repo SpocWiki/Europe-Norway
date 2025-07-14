@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Markoe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityMarkoe.public.md) 
+### [Markoe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.md) 
 
-### [Markoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityMarkoe.internal.md) 
+### [Markoe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.public.md) 
 
-### [Markoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityMarkoe.protect.md) 
+### [Markoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.internal.md) 
 
-### [Markoe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityMarkoe.private.md) 
+### [Markoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.protect.md) 
 
-### [Markoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityMarkoe.personal.md) 
+### [Markoe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.private.md) 
 
-### [Markoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityMarkoe.secret.md)
+### [Markoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.personal.md) 
+
+### [Markoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.secret.md)
 

@@ -134,15 +134,17 @@ Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\NorwayReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\NorwayReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\NorwayReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\NorwayReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\NorwayReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\NorwayReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/ReadMe.secret.md)
 

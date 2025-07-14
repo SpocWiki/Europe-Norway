@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brandvold.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms\CityBrandvold.public.md) 
+### [Brandvold](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.md) 
 
-### [Brandvold.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms\CityBrandvold.internal.md) 
+### [Brandvold.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.public.md) 
 
-### [Brandvold.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms\CityBrandvold.protect.md) 
+### [Brandvold.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.internal.md) 
 
-### [Brandvold.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms\CityBrandvold.private.md) 
+### [Brandvold.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.protect.md) 
 
-### [Brandvold.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms\CityBrandvold.personal.md) 
+### [Brandvold.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.private.md) 
 
-### [Brandvold.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Troms\CityBrandvold.secret.md)
+### [Brandvold.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.personal.md) 
+
+### [Brandvold.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.secret.md)
 

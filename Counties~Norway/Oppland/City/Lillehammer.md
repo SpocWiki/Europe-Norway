@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lillehammer.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Oppland\CityLillehammer.public.md) 
+### [Lillehammer](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Oppland/City/Lillehammer.md) 
 
-### [Lillehammer.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Oppland\CityLillehammer.internal.md) 
+### [Lillehammer.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Oppland/City/Lillehammer.public.md) 
 
-### [Lillehammer.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Oppland\CityLillehammer.protect.md) 
+### [Lillehammer.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Oppland/City/Lillehammer.internal.md) 
 
-### [Lillehammer.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Oppland\CityLillehammer.private.md) 
+### [Lillehammer.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Oppland/City/Lillehammer.protect.md) 
 
-### [Lillehammer.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Oppland\CityLillehammer.personal.md) 
+### [Lillehammer.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Oppland/City/Lillehammer.private.md) 
 
-### [Lillehammer.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Oppland\CityLillehammer.secret.md)
+### [Lillehammer.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Oppland/City/Lillehammer.personal.md) 
+
+### [Lillehammer.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Oppland/City/Lillehammer.secret.md)
 

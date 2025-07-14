@@ -40,15 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oslo,City.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityOslo,City.public.md) 
+### [Oslo,City](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.md) 
 
-### [Oslo,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityOslo,City.internal.md) 
+### [Oslo,City.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.public.md) 
 
-### [Oslo,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityOslo,City.protect.md) 
+### [Oslo,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.internal.md) 
 
-### [Oslo,City.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityOslo,City.private.md) 
+### [Oslo,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.protect.md) 
 
-### [Oslo,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityOslo,City.personal.md) 
+### [Oslo,City.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.private.md) 
 
-### [Oslo,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Viken\Oslo,County\CityOslo,City.secret.md)
+### [Oslo,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.personal.md) 
+
+### [Oslo,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.secret.md)
 

@@ -40,15 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trondheim.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.public.md) 
+### [Trondheim](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.md) 
 
-### [Trondheim.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.internal.md) 
+### [Trondheim.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.public.md) 
 
-### [Trondheim.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.protect.md) 
+### [Trondheim.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.internal.md) 
 
-### [Trondheim.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.private.md) 
+### [Trondheim.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.protect.md) 
 
-### [Trondheim.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.personal.md) 
+### [Trondheim.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.private.md) 
 
-### [Trondheim.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.secret.md)
+### [Trondheim.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.personal.md) 
+
+### [Trondheim.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.secret.md)
 

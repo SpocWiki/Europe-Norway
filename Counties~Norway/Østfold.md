@@ -60,15 +60,17 @@ markerFolder: ./Østfold/
 
 ## Confidential Links & Embeds: 
 
-### [Østfold.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.public.md) 
+### [Østfold](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold.md) 
 
-### [Østfold.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.internal.md) 
+### [Østfold.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold.public.md) 
 
-### [Østfold.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.protect.md) 
+### [Østfold.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold.internal.md) 
 
-### [Østfold.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.private.md) 
+### [Østfold.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold.protect.md) 
 
-### [Østfold.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.personal.md) 
+### [Østfold.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold.private.md) 
 
-### [Østfold.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.secret.md)
+### [Østfold.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold.personal.md) 
+
+### [Østfold.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold.secret.md)
 

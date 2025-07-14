@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tonsberg.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.public.md) 
+### [Tonsberg](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold/City/Tonsberg.md) 
 
-### [Tonsberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.internal.md) 
+### [Tonsberg.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold/City/Tonsberg.public.md) 
 
-### [Tonsberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.protect.md) 
+### [Tonsberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold/City/Tonsberg.internal.md) 
 
-### [Tonsberg.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.private.md) 
+### [Tonsberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold/City/Tonsberg.protect.md) 
 
-### [Tonsberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.personal.md) 
+### [Tonsberg.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold/City/Tonsberg.private.md) 
 
-### [Tonsberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.secret.md)
+### [Tonsberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold/City/Tonsberg.personal.md) 
+
+### [Tonsberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold/City/Tonsberg.secret.md)
 
