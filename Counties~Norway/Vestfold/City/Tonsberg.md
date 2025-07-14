@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Tonsberg|Tonsberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Tonsberg.public|Tonsberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Tonsberg.internal|Tonsberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Tonsberg.protect|Tonsberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Tonsberg.private|Tonsberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Tonsberg.personal|Tonsberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Tonsberg.secret|Tonsberg.secret]] 
+
+### [Tonsberg.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.public.md) 
+
+### [Tonsberg.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.internal.md) 
+
+### [Tonsberg.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.protect.md) 
+
+### [Tonsberg.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.private.md) 
+
+### [Tonsberg.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.personal.md) 
+
+### [Tonsberg.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestfold\CityTonsberg.secret.md)
+

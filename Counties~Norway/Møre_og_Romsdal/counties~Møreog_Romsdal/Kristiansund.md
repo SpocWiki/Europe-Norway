@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Christiansund|Christiansund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Christiansund.public|Christiansund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Christiansund.internal|Christiansund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Christiansund.protect|Christiansund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Christiansund.private|Christiansund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Christiansund.personal|Christiansund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Christiansund.secret|Christiansund.secret]] 
+
+### [Kristiansund.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.public.md) 
+
+### [Kristiansund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.internal.md) 
+
+### [Kristiansund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.protect.md) 
+
+### [Kristiansund.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.private.md) 
+
+### [Kristiansund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.personal.md) 
+
+### [Kristiansund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Møre_og_Romsdal\counties~Møreog_RomsdalKristiansund.secret.md)
+

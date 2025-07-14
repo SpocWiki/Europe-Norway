@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Andalsnes|Andalsnes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Andalsnes.public|Andalsnes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Andalsnes.internal|Andalsnes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Andalsnes.protect|Andalsnes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Andalsnes.private|Andalsnes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Andalsnes.personal|Andalsnes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Andalsnes.secret|Andalsnes.secret]] 
+
+### [Andalsnes.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityAndalsnes.public.md) 
+
+### [Andalsnes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityAndalsnes.internal.md) 
+
+### [Andalsnes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityAndalsnes.protect.md) 
+
+### [Andalsnes.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityAndalsnes.private.md) 
+
+### [Andalsnes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityAndalsnes.personal.md) 
+
+### [Andalsnes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityAndalsnes.secret.md)
+

@@ -37,10 +37,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Bergen|Bergen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Bergen.public|Bergen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Bergen.internal|Bergen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Bergen.protect|Bergen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Bergen.private|Bergen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Bergen.personal|Bergen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Bergen.secret|Bergen.secret]] 
+
+### [Bergen,City.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.public.md) 
+
+### [Bergen,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.internal.md) 
+
+### [Bergen,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.protect.md) 
+
+### [Bergen,City.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.private.md) 
+
+### [Bergen,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.personal.md) 
+
+### [Bergen,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Hordaland\counties~Hordaland\Bergen,County\CityBergen,City.secret.md)
+

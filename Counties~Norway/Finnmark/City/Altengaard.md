@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Altengaard|Altengaard]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Altengaard.public|Altengaard.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Altengaard.internal|Altengaard.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Altengaard.protect|Altengaard.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Altengaard.private|Altengaard.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Altengaard.personal|Altengaard.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Altengaard.secret|Altengaard.secret]] 
+
+### [Altengaard.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityAltengaard.public.md) 
+
+### [Altengaard.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityAltengaard.internal.md) 
+
+### [Altengaard.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityAltengaard.protect.md) 
+
+### [Altengaard.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityAltengaard.private.md) 
+
+### [Altengaard.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityAltengaard.personal.md) 
+
+### [Altengaard.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Finnmark\CityAltengaard.secret.md)
+

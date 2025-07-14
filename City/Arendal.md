@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Arendal|Arendal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Arendal.public|Arendal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Arendal.internal|Arendal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Arendal.protect|Arendal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Arendal.private|Arendal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Arendal.personal|Arendal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Arendal.secret|Arendal.secret]] 
+
+### [Arendal.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityArendal.public.md) 
+
+### [Arendal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityArendal.internal.md) 
+
+### [Arendal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityArendal.protect.md) 
+
+### [Arendal.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityArendal.private.md) 
+
+### [Arendal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityArendal.personal.md) 
+
+### [Arendal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityArendal.secret.md)
+

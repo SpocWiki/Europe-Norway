@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Frederiksstad|Frederiksstad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Frederiksstad.public|Frederiksstad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Frederiksstad.internal|Frederiksstad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Frederiksstad.protect|Frederiksstad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Frederiksstad.private|Frederiksstad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Frederiksstad.personal|Frederiksstad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Frederiksstad.secret|Frederiksstad.secret]] 
+
+### [Frederiksstad.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.public.md) 
+
+### [Frederiksstad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.internal.md) 
+
+### [Frederiksstad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.protect.md) 
+
+### [Frederiksstad.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.private.md) 
+
+### [Frederiksstad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.personal.md) 
+
+### [Frederiksstad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Østfold\CityFrederiksstad.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Tarvestad|Tarvestad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Tarvestad.public|Tarvestad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Tarvestad.internal|Tarvestad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Tarvestad.protect|Tarvestad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Tarvestad.private|Tarvestad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Tarvestad.personal|Tarvestad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Tarvestad.secret|Tarvestad.secret]] 
+
+### [Tarvestad.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.public.md) 
+
+### [Tarvestad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.internal.md) 
+
+### [Tarvestad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.protect.md) 
+
+### [Tarvestad.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.private.md) 
+
+### [Tarvestad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.personal.md) 
+
+### [Tarvestad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityTarvestad.secret.md)
+

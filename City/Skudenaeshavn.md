@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn|Skudenaeshavn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.public|Skudenaeshavn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.internal|Skudenaeshavn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.protect|Skudenaeshavn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.private|Skudenaeshavn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.personal|Skudenaeshavn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.secret|Skudenaeshavn.secret]] 
+
+### [Skudenaeshavn.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.public.md) 
+
+### [Skudenaeshavn.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.internal.md) 
+
+### [Skudenaeshavn.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.protect.md) 
+
+### [Skudenaeshavn.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.private.md) 
+
+### [Skudenaeshavn.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.personal.md) 
+
+### [Skudenaeshavn.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CitySkudenaeshavn.secret.md)
+

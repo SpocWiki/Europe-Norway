@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Bodo|Bodo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Bodo.public|Bodo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Bodo.internal|Bodo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Bodo.protect|Bodo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Bodo.private|Bodo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Bodo.personal|Bodo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Bodo.secret|Bodo.secret]] 
+
+### [Bodo.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityBodo.public.md) 
+
+### [Bodo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityBodo.internal.md) 
+
+### [Bodo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityBodo.protect.md) 
+
+### [Bodo.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityBodo.private.md) 
+
+### [Bodo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityBodo.personal.md) 
+
+### [Bodo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityBodo.secret.md)
+

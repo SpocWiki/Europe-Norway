@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Aalesund|Aalesund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Aalesund.public|Aalesund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Aalesund.internal|Aalesund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Aalesund.protect|Aalesund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Aalesund.private|Aalesund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Aalesund.personal|Aalesund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Aalesund.secret|Aalesund.secret]] 
+
+### [Aalesund.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Sogn_og_Fjordane\CityAalesund.public.md) 
+
+### [Aalesund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Sogn_og_Fjordane\CityAalesund.internal.md) 
+
+### [Aalesund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Sogn_og_Fjordane\CityAalesund.protect.md) 
+
+### [Aalesund.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Sogn_og_Fjordane\CityAalesund.private.md) 
+
+### [Aalesund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Sogn_og_Fjordane\CityAalesund.personal.md) 
+
+### [Aalesund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Vestland\Sogn_og_Fjordane\CityAalesund.secret.md)
+

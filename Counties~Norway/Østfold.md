@@ -59,11 +59,16 @@ markerFolder: ./Østfold/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold|Østfold]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.public|Østfold.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.internal|Østfold.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.protect|Østfold.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.private|Østfold.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.personal|Østfold.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Østfold.secret|Østfold.secret]] 
+
+### [Østfold.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.public.md) 
+
+### [Østfold.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.internal.md) 
+
+### [Østfold.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.protect.md) 
+
+### [Østfold.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.private.md) 
+
+### [Østfold.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.personal.md) 
+
+### [Østfold.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayØstfold.secret.md)
 

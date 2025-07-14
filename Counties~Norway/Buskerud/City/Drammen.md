@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Drammen|Drammen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Drammen.public|Drammen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Drammen.internal|Drammen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Drammen.protect|Drammen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Drammen.private|Drammen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Drammen.personal|Drammen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Drammen.secret|Drammen.secret]] 
+
+### [Drammen.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityDrammen.public.md) 
+
+### [Drammen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityDrammen.internal.md) 
+
+### [Drammen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityDrammen.protect.md) 
+
+### [Drammen.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityDrammen.private.md) 
+
+### [Drammen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityDrammen.personal.md) 
+
+### [Drammen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Buskerud\CityDrammen.secret.md)
+

@@ -39,10 +39,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Trondheim|Trondheim]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Trondheim.public|Trondheim.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Trondheim.internal|Trondheim.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Trondheim.protect|Trondheim.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Trondheim.private|Trondheim.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Trondheim.personal|Trondheim.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Trondheim.secret|Trondheim.secret]] 
+
+### [Trondheim.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.public.md) 
+
+### [Trondheim.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.internal.md) 
+
+### [Trondheim.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.protect.md) 
+
+### [Trondheim.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.private.md) 
+
+### [Trondheim.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.personal.md) 
+
+### [Trondheim.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Trøndelag,Sør\counties~Sør-TrøndelagTrondheim.secret.md)
+

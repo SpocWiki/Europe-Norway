@@ -55,11 +55,16 @@ markerFolder: ./Hordaland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/Counties/Hordaland|Hordaland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/Counties/Hordaland.public|Hordaland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/Counties/Hordaland.internal|Hordaland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/Counties/Hordaland.protect|Hordaland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/Counties/Hordaland.private|Hordaland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/Counties/Hordaland.personal|Hordaland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/Counties/Hordaland.secret|Hordaland.secret]] 
+
+### [Hordaland.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\VestlandHordaland.public.md) 
+
+### [Hordaland.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\VestlandHordaland.internal.md) 
+
+### [Hordaland.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\VestlandHordaland.protect.md) 
+
+### [Hordaland.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\VestlandHordaland.private.md) 
+
+### [Hordaland.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\VestlandHordaland.personal.md) 
+
+### [Hordaland.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\VestlandHordaland.secret.md)
 

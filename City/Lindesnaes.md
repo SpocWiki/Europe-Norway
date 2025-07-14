@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Lindesnaes|Lindesnaes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Lindesnaes.public|Lindesnaes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Lindesnaes.internal|Lindesnaes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Lindesnaes.protect|Lindesnaes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Lindesnaes.private|Lindesnaes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Lindesnaes.personal|Lindesnaes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Lindesnaes.secret|Lindesnaes.secret]] 
+
+### [Lindesnaes.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityLindesnaes.public.md) 
+
+### [Lindesnaes.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityLindesnaes.internal.md) 
+
+### [Lindesnaes.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityLindesnaes.protect.md) 
+
+### [Lindesnaes.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityLindesnaes.private.md) 
+
+### [Lindesnaes.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityLindesnaes.personal.md) 
+
+### [Lindesnaes.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityLindesnaes.secret.md)
+

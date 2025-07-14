@@ -132,12 +132,17 @@ Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]
 [has_place_latitude::61.8685] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway|Norway]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Norway.public|Norway.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Norway.internal|Norway.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Norway.protect|Norway.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Norway.private|Norway.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Norway.personal|Norway.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Norway.secret|Norway.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\NorwayReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\NorwayReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\NorwayReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\NorwayReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\NorwayReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\NorwayReadMe.secret.md)
+

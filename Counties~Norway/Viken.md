@@ -30,3 +30,20 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Viken%20(county))
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Viken.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayViken.public.md) 
+
+### [Viken.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayViken.internal.md) 
+
+### [Viken.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayViken.protect.md) 
+
+### [Viken.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayViken.private.md) 
+
+### [Viken.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayViken.personal.md) 
+
+### [Viken.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~NorwayViken.secret.md)
+

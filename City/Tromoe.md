@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Tromoe|Tromoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Tromoe.public|Tromoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Tromoe.internal|Tromoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Tromoe.protect|Tromoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Tromoe.private|Tromoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Tromoe.personal|Tromoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Tromoe.secret|Tromoe.secret]] 
+
+### [Tromoe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.public.md) 
+
+### [Tromoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.internal.md) 
+
+### [Tromoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.protect.md) 
+
+### [Tromoe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.private.md) 
+
+### [Tromoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.personal.md) 
+
+### [Tromoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityTromoe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Narvik|Narvik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Narvik.public|Narvik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Narvik.internal|Narvik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Narvik.protect|Narvik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Narvik.private|Narvik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Narvik.personal|Narvik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Narvik.secret|Narvik.secret]] 
+
+### [Narvik.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.public.md) 
+
+### [Narvik.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.internal.md) 
+
+### [Narvik.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.protect.md) 
+
+### [Narvik.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.private.md) 
+
+### [Narvik.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.personal.md) 
+
+### [Narvik.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityNarvik.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Froejen|Froejen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Froejen.public|Froejen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Froejen.internal|Froejen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Froejen.protect|Froejen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Froejen.private|Froejen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Froejen.personal|Froejen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Froejen.secret|Froejen.secret]] 
+
+### [Froejen.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.public.md) 
+
+### [Froejen.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.internal.md) 
+
+### [Froejen.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.protect.md) 
+
+### [Froejen.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.private.md) 
+
+### [Froejen.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.personal.md) 
+
+### [Froejen.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityFroejen.secret.md)
+

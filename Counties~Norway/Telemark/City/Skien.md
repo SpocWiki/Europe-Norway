@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Skien|Skien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Skien.public|Skien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Skien.internal|Skien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Skien.protect|Skien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Skien.private|Skien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Skien.personal|Skien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Skien.secret|Skien.secret]] 
+
+### [Skien.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Telemark\CitySkien.public.md) 
+
+### [Skien.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Telemark\CitySkien.internal.md) 
+
+### [Skien.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Telemark\CitySkien.protect.md) 
+
+### [Skien.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Telemark\CitySkien.private.md) 
+
+### [Skien.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Telemark\CitySkien.personal.md) 
+
+### [Skien.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Telemark\CitySkien.secret.md)
+

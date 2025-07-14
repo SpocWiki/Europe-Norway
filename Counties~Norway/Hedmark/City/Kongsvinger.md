@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Kongsvinger|Kongsvinger]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Kongsvinger.public|Kongsvinger.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Kongsvinger.internal|Kongsvinger.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Kongsvinger.protect|Kongsvinger.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Kongsvinger.private|Kongsvinger.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Kongsvinger.personal|Kongsvinger.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Kongsvinger.secret|Kongsvinger.secret]] 
+
+### [Kongsvinger.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Hedmark\CityKongsvinger.public.md) 
+
+### [Kongsvinger.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Hedmark\CityKongsvinger.internal.md) 
+
+### [Kongsvinger.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Hedmark\CityKongsvinger.protect.md) 
+
+### [Kongsvinger.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Hedmark\CityKongsvinger.private.md) 
+
+### [Kongsvinger.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Hedmark\CityKongsvinger.personal.md) 
+
+### [Kongsvinger.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Hedmark\CityKongsvinger.secret.md)
+

@@ -39,10 +39,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Christiansand|Christiansand]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Christiansand.public|Christiansand.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Christiansand.internal|Christiansand.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Christiansand.protect|Christiansand.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Christiansand.private|Christiansand.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Christiansand.personal|Christiansand.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Christiansand.secret|Christiansand.secret]] 
+
+### [Christiansand.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityChristiansand.public.md) 
+
+### [Christiansand.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityChristiansand.internal.md) 
+
+### [Christiansand.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityChristiansand.protect.md) 
+
+### [Christiansand.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityChristiansand.private.md) 
+
+### [Christiansand.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityChristiansand.personal.md) 
+
+### [Christiansand.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Agder\Vest-Agder\CityChristiansand.secret.md)
+

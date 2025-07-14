@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Haugesund|Haugesund]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Haugesund.public|Haugesund.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Haugesund.internal|Haugesund.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Haugesund.protect|Haugesund.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Haugesund.private|Haugesund.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Haugesund.personal|Haugesund.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Haugesund.secret|Haugesund.secret]] 
+
+### [Haugesund.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandHaugesund.public.md) 
+
+### [Haugesund.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandHaugesund.internal.md) 
+
+### [Haugesund.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandHaugesund.protect.md) 
+
+### [Haugesund.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandHaugesund.private.md) 
+
+### [Haugesund.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandHaugesund.personal.md) 
+
+### [Haugesund.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandHaugesund.secret.md)
+

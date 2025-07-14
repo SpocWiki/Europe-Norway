@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Tromsoe|Tromsoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Tromsoe.public|Tromsoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Tromsoe.internal|Tromsoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Tromsoe.protect|Tromsoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Tromsoe.private|Tromsoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Tromsoe.personal|Tromsoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Tromsoe.secret|Tromsoe.secret]] 
+
+### [Tromsoe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityTromsoe.public.md) 
+
+### [Tromsoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityTromsoe.internal.md) 
+
+### [Tromsoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityTromsoe.protect.md) 
+
+### [Tromsoe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityTromsoe.private.md) 
+
+### [Tromsoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityTromsoe.personal.md) 
+
+### [Tromsoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityTromsoe.secret.md)
+

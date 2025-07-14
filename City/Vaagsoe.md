@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Vaagsoe|Vaagsoe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Vaagsoe.public|Vaagsoe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Vaagsoe.internal|Vaagsoe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Vaagsoe.protect|Vaagsoe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Vaagsoe.private|Vaagsoe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Vaagsoe.personal|Vaagsoe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Vaagsoe.secret|Vaagsoe.secret]] 
+
+### [Vaagsoe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.public.md) 
+
+### [Vaagsoe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.internal.md) 
+
+### [Vaagsoe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.protect.md) 
+
+### [Vaagsoe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.private.md) 
+
+### [Vaagsoe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.personal.md) 
+
+### [Vaagsoe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityVaagsoe.secret.md)
+

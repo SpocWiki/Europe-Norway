@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Skagerrak|Skagerrak]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Skagerrak.public|Skagerrak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Skagerrak.internal|Skagerrak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Skagerrak.protect|Skagerrak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Skagerrak.private|Skagerrak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Skagerrak.personal|Skagerrak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Skagerrak.secret|Skagerrak.secret]] 
+
+### [Skagerrak.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CitySkagerrak.public.md) 
+
+### [Skagerrak.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CitySkagerrak.internal.md) 
+
+### [Skagerrak.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CitySkagerrak.protect.md) 
+
+### [Skagerrak.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CitySkagerrak.private.md) 
+
+### [Skagerrak.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CitySkagerrak.personal.md) 
+
+### [Skagerrak.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CitySkagerrak.secret.md)
+

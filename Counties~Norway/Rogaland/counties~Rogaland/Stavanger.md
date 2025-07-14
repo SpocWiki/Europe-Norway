@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Stavanger|Stavanger]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Stavanger.public|Stavanger.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Stavanger.internal|Stavanger.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Stavanger.protect|Stavanger.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Stavanger.private|Stavanger.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Stavanger.personal|Stavanger.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Stavanger.secret|Stavanger.secret]] 
+
+### [Stavanger.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.public.md) 
+
+### [Stavanger.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.internal.md) 
+
+### [Stavanger.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.protect.md) 
+
+### [Stavanger.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.private.md) 
+
+### [Stavanger.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.personal.md) 
+
+### [Stavanger.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\counties~RogalandStavanger.secret.md)
+

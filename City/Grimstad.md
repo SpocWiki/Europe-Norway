@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Grimstad|Grimstad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Grimstad.public|Grimstad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Grimstad.internal|Grimstad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Grimstad.protect|Grimstad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Grimstad.private|Grimstad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Grimstad.personal|Grimstad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Grimstad.secret|Grimstad.secret]] 
+
+### [Grimstad.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityGrimstad.public.md) 
+
+### [Grimstad.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityGrimstad.internal.md) 
+
+### [Grimstad.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityGrimstad.protect.md) 
+
+### [Grimstad.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityGrimstad.private.md) 
+
+### [Grimstad.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityGrimstad.personal.md) 
+
+### [Grimstad.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityGrimstad.secret.md)
+

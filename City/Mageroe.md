@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Mageroe|Mageroe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Mageroe.public|Mageroe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Mageroe.internal|Mageroe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Mageroe.protect|Mageroe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Mageroe.private|Mageroe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Mageroe.personal|Mageroe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Mageroe.secret|Mageroe.secret]] 
+
+### [Mageroe.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\CityMageroe.public.md) 
+
+### [Mageroe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\CityMageroe.internal.md) 
+
+### [Mageroe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\CityMageroe.protect.md) 
+
+### [Mageroe.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\CityMageroe.private.md) 
+
+### [Mageroe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\CityMageroe.personal.md) 
+
+### [Mageroe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\CityMageroe.secret.md)
+

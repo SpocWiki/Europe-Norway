@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Norway/City/Lunde|Lunde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Norway/City/Lunde.public|Lunde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Norway/City/Lunde.internal|Lunde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Norway/City/Lunde.protect|Lunde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Norway/City/Lunde.private|Lunde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Norway/City/Lunde.personal|Lunde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Norway/City/Lunde.secret|Lunde.secret]] 
+
+### [Lunde.public](/_public/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\CityLunde.public.md) 
+
+### [Lunde.internal](/_internal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\CityLunde.internal.md) 
+
+### [Lunde.protect](/_protect/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\CityLunde.protect.md) 
+
+### [Lunde.private](/_private/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\CityLunde.private.md) 
+
+### [Lunde.personal](/_personal/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\CityLunde.personal.md) 
+
+### [Lunde.secret](/_secret/\Earth\Continent\Europe\Europe~North\Norway\Counties~Norway\Rogaland\CityLunde.secret.md)
+
