@@ -29,7 +29,7 @@ expiryDate:
 
 # [[Vest-Agder]]
 
-#has_/next_item :: [[../Agder]] 
+#has_/next_/item :: [[../Agder]] 
 
 ```leaflet
 id: Vest-Agder

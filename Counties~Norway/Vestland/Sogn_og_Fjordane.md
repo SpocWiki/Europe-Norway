@@ -30,7 +30,7 @@ expiryDate:
 # Sogn_og_Fjordane
 
 
-#has_/next_item :: [[../Vestland|Vestland]] 
+#has_/next_/item :: [[../Vestland|Vestland]] 
 
 ```leaflet
 id: Sogn_og_Fjordane

@@ -38,7 +38,7 @@ geojsonFolder: ./Hordaland/
 markerFolder: ./Hordaland/
 ```
 
-#has_/next_item :: [[../Vestland|Vestland]] 
+#has_/next_/item :: [[../Vestland|Vestland]] 
 
 
 ## #has_/text_of_/abstract 

@@ -29,7 +29,7 @@ expiryDate:
 
 # [[Aust-Agder]]
 
-#has_/next_item :: [[../Agder]] 
+#has_/next_/item :: [[../Agder]] 
 
 
 ```leaflet
