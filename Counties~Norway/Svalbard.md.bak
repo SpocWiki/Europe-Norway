@@ -32,9 +32,6 @@ expiryDate:
 
 # Svalbard
 
-[ISO2::]
-[ISO3::]
-
 ```leaflet
 id: Svalbard
 zoomFeatures: true 
