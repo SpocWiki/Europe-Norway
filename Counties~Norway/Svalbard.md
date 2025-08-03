@@ -1,7 +1,6 @@
 ---
 location:
-  - 80
-  - 23
+  - 78
 type: geo-Region
 title: Svalbard
 license: CC BY-SA 4.0
@@ -10,8 +9,6 @@ isReadOnly: false
 draft: false
 confidential: public
 isDeleted: false
-location:
-- 78
 SpocWebEntityId: 76730
 tags:
   - geo/Country/Region
@@ -30,7 +27,7 @@ publishDate:
 expiryDate:
 ---
 
-# Svalbard
+# [[Svalbard]]
 
 [ISO2::]
 [ISO3::]
@@ -58,17 +55,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Svalbard](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.md) 
+### #is_/same_as :: [Svalbard](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.md) 
 
-### [Svalbard.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.public.md) 
+### #is_/same_as :: [Svalbard.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.public.md) 
 
-### [Svalbard.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.internal.md) 
+### #is_/same_as :: [Svalbard.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.internal.md) 
 
-### [Svalbard.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.protect.md) 
+### #is_/same_as :: [Svalbard.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.protect.md) 
 
-### [Svalbard.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.private.md) 
+### #is_/same_as :: [Svalbard.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.private.md) 
 
-### [Svalbard.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.personal.md) 
+### #is_/same_as :: [Svalbard.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.personal.md) 
 
-### [Svalbard.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.secret.md)
+### #is_/same_as :: [Svalbard.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Svalbard.secret.md)
 
