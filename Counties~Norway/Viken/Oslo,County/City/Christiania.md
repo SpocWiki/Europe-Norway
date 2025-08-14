@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Christiania]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::10.72] 
