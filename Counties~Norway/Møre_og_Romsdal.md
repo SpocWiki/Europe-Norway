@@ -1,31 +1,30 @@
 ---
-location: [ 62.6 , 8.3 ] 
+location:
+  - 62.6
+  - 8.3
 type: geo-Region
 title: Møre_og_Romsdal
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Møre_og_Romsdal
-- Møre og Romsdal
-
+  - Møre_og_Romsdal
+  - Møre og Romsdal
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Møre_og_Romsdal
