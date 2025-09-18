@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: Svalbard
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Svalbard/
 markerFolder: ./Svalbard/

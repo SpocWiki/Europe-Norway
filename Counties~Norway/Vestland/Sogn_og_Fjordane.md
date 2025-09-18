@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: Sogn_og_Fjordane
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sogn_og_Fjordane/
 markerFolder: ./Sogn_og_Fjordane/

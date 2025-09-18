@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Rogaland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rogaland/
 markerFolder: ./Rogaland/

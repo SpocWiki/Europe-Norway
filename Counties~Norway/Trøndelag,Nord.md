@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Nord-Trøndelag
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nord-Trøndelag/
 markerFolder: ./Nord-Trøndelag/

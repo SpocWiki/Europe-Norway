@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Oslo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Oslo/
 markerFolder: ./Oslo/

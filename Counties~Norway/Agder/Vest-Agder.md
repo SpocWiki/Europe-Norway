@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Vest-Agder
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vest-Agder/
 markerFolder: ./Vest-Agder/

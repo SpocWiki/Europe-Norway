@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Møre_og_Romsdal
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Møre_og_Romsdal/
 markerFolder: ./Møre_og_Romsdal/
