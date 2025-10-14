@@ -21,7 +21,7 @@ State ::
 Country :: [[Norway]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
