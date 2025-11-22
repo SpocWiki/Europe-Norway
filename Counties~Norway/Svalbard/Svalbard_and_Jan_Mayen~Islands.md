@@ -9,8 +9,13 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 [ISO2::SJ]
 [ISO3::SJM]
+
+## #has_/map  
+
 ```leaflet
 id: Svalbard And Jan Mayen Islands
 zoomFeatures: true 
