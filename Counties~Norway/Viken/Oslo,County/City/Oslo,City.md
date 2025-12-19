@@ -46,7 +46,7 @@ located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Oslofjord,667456]]"
   - "[[_Standards/WikiData/WD~Alnaelva,4129930]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
