@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Møre_og_Romsdal
+  - Møre og Romsdal
 location:
   - 62.6
   - 8.3
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Møre_og_Romsdal
-  - Møre og Romsdal
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Møre_og_Romsdal

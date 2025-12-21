@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Christiansand
+  - Kristiansand
 location:
   - 58.14
   - 8.02
@@ -14,8 +17,6 @@ SpocWebEntityId:
   - 31648
 isDeleted: false
 confidential: public
-aliases:
-  - Christiansand
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

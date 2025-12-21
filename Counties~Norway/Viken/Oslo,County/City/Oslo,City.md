@@ -1,6 +1,7 @@
 ---
 aliases:
   - Oslo
+  - Oslo,City
 has_id_wikidata: Q585
 location:
   - 59.91
@@ -16,82 +17,82 @@ SpocWebEntityId: 33159
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Artvin,193445]]"
-  - "[[_Standards/WikiData/WD~Stockholm,506250]]"
-  - "[[_Standards/WikiData/WD~Warsaw,270]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Schleswig_Holstein,1194]]"
-  - "[[_Standards/WikiData/WD~Copenhagen,1748]]"
-  - "[[_Standards/WikiData/WD~Helsinki,1757]]"
-  - "[[_Standards/WikiData/WD~Reykjavík,1764]]"
-  - "[[_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[_Standards/WikiData/WD~Belgrade,3711]]"
-  - "[[_Standards/WikiData/WD~Shanghai,8686]]"
-  - "[[_Standards/WikiData/WD~Tórshavn,10704]]"
-  - "[[_Standards/WikiData/WD~Antwerp,12892]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-  - "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-  - "[[_Standards/WikiData/WD~Vilnius,216]]"
-  - "[[_Standards/WikiData/WD~Nuuk,226]]"
-  - "[[_Standards/WikiData/WD~Tel_Aviv,33935]]"
-  - "[[_Standards/WikiData/WD~Rotterdam,34370]]"
-  - "[[_Standards/WikiData/WD~Madison,43788]]"
-different_from: "[[_Standards/WikiData/WD~Oslo,365662]]"
+  - '[[_Standards/WikiData/WD~Artvin,193445]]'
+  - '[[_Standards/WikiData/WD~Stockholm,506250]]'
+  - '[[_Standards/WikiData/WD~Warsaw,270]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+  - '[[_Standards/WikiData/WD~Schleswig_Holstein,1194]]'
+  - '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+  - '[[_Standards/WikiData/WD~Helsinki,1757]]'
+  - '[[_Standards/WikiData/WD~Reykjavík,1764]]'
+  - '[[_Standards/WikiData/WD~Kyiv,1899]]'
+  - '[[_Standards/WikiData/WD~Belgrade,3711]]'
+  - '[[_Standards/WikiData/WD~Shanghai,8686]]'
+  - '[[_Standards/WikiData/WD~Tórshavn,10704]]'
+  - '[[_Standards/WikiData/WD~Antwerp,12892]]'
+  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+  - '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+  - '[[_Standards/WikiData/WD~Vilnius,216]]'
+  - '[[_Standards/WikiData/WD~Nuuk,226]]'
+  - '[[_Standards/WikiData/WD~Tel_Aviv,33935]]'
+  - '[[_Standards/WikiData/WD~Rotterdam,34370]]'
+  - '[[_Standards/WikiData/WD~Madison,43788]]'
+different_from: '[[_Standards/WikiData/WD~Oslo,365662]]'
 member_of:
-  - "[[_Standards/WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]"
-  - "[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]"
+  - '[[_Standards/WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]'
+  - '[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Akerselva,555450]]"
-  - "[[_Standards/WikiData/WD~Oslofjord,667456]]"
-  - "[[_Standards/WikiData/WD~Alnaelva,4129930]]"
+  - '[[_Standards/WikiData/WD~Akerselva,555450]]'
+  - '[[_Standards/WikiData/WD~Oslofjord,667456]]'
+  - '[[_Standards/WikiData/WD~Alnaelva,4129930]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~administrative_centre,1306755]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
-patron_saint: "[[_Standards/WikiData/WD~Hallvard_Vebjørnsson,1364981]]"
+  - '[[_Standards/WikiData/WD~administrative_centre,1306755]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
+  - '[[_Standards/WikiData/WD~national_capital,108178728]]'
+patron_saint: '[[_Standards/WikiData/WD~Hallvard_Vebjørnsson,1364981]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Quisling_regime,2616953]]"
-  - "[[_Standards/WikiData/WD~Aker,3357343]]"
-  - "[[_Standards/WikiData/WD~Oslo_Municipality,5245991]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Akershus,50615]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Oslo,3973048]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Oslo_Municipality,5245991]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Oslo,5256056]]"
-head_of_government: "[[_Standards/WikiData/WD~Eirik_Lae_Solberg,5349859]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Oslo,8253792]]"
-award_received: "[[_Standards/WikiData/WD~National_urban_environment_award,18910363]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Oslo,23042265]]"
-official_app: "[[_Standards/WikiData/WD~Oslo_Official_City_App,37953566]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Oslo,106020233]]"
+  - '[[_Standards/WikiData/WD~Quisling_regime,2616953]]'
+  - '[[_Standards/WikiData/WD~Aker,3357343]]'
+  - '[[_Standards/WikiData/WD~Oslo_Municipality,5245991]]'
+  - '[[_Standards/WikiData/WD~Norway,20]]'
+  - '[[_Standards/WikiData/WD~Akershus,50615]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Oslo,3973048]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Oslo_Municipality,5245991]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Oslo,5256056]]'
+head_of_government: '[[_Standards/WikiData/WD~Eirik_Lae_Solberg,5349859]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Oslo,8253792]]'
+award_received: '[[_Standards/WikiData/WD~National_urban_environment_award,18910363]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Oslo,23042265]]'
+official_app: '[[_Standards/WikiData/WD~Oslo_Official_City_App,37953566]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Oslo,106020233]]'
 coordinate_location: Point(10.738888888 59.913333333)
 time_of_earliest_written_record: 1048-01-01T00:00:00Z
 inception: 1048-01-01T00:00:00Z
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
-country: "[[_Standards/WikiData/WD~Norway,20]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+  - '[[_Standards/WikiData/WD~Central_European_Time,25989]]'
+country: '[[_Standards/WikiData/WD~Norway,20]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 elevation_above_sea_level: 23
 maximum_temperature_record: 14.9
 area:
   - 454.12
   - 480.75
-OmegaWiki_Defined_Meaning: "7119"
-WOEID: "862592"
+OmegaWiki_Defined_Meaning: 7119
+WOEID: 862592
 population: 709037
 Provenio_UUID: 024e3e59-4686-4035-ae8d-f62bee481a51
 demonym:
@@ -106,7 +107,7 @@ subreddit: oslo
 BHCL_UUID:
   - 92c1370d-508e-48ac-9382-fb53d20ab06c
   - e699c2ef-4fb8-4f8d-831c-35d8bfdc8138
-U_S_National_Archives_Identifier: "10045056"
+U_S_National_Archives_Identifier: 10045056
 Facebook_username: Oslo
 Commons_gallery: Oslo
 Commons_category: Oslo
@@ -133,7 +134,7 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20fra%20slottet%201.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20newer%20montage%202013.png
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20panorama%20I.jpg
-ISNI: "0000000115544893"
+ISNI: 0000000115544893
 postal_code: 0001–1299
 Dewey_Decimal_Classification: 2--4821
 ISO_3166_2_code: NO-03

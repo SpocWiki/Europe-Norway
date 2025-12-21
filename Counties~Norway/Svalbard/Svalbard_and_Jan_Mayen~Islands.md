@@ -1,13 +1,13 @@
 ---
-
+aliases:
+  - Svalbard_and_Jan_Mayen~Islands
+  - Svalbard and Jan Mayen~Islands
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 27017
 isDeleted: false
 confidential: public
-
 ---
 
 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ekersund
+  - Eigersund
 location:
   - 58.43
   - 6
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 30016
 isDeleted: false
 confidential: public
-aliases:
-  - Ekersund
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

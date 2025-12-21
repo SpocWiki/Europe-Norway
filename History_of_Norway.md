@@ -1,15 +1,17 @@
 ---
 aliases:
   - history of Norway
+  - History_of_Norway
+  - History of Norway
 has_id_wikidata: Q210725
-has_part_s_: "[[_Standards/WikiData/WD~Kingdom_of_Norway,2196956]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Norway,25731561]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Norway,20]]"
-country: "[[_Standards/WikiData/WD~Norway,20]]"
-Dewey_Decimal_Classification: "948.1"
+has_part_s_: '[[_Standards/WikiData/WD~Kingdom_of_Norway,2196956]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Norway,25731561]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Norway,20]]'
+country: '[[_Standards/WikiData/WD~Norway,20]]'
+Dewey_Decimal_Classification: 948.1
 Commons_category: History of Norway
 ---
 

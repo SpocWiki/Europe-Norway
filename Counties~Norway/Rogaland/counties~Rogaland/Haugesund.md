@@ -1,16 +1,19 @@
 ---
-location: [59.42,5.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Haugesund
+location:
+  - 59.42
+  - 5.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30809
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

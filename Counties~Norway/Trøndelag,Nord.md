@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nord-Trøndelag
+  - Trøndelag,Nord
 location:
   - 64.2
   - 12.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Nord-Trøndelag
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Nord-Trøndelag

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sogn_og_Fjordane
+  - Sogn og Fjordane
 location:
   - 61.5
   - 6.6
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sogn_og_Fjordane
-  - Sogn og Fjordane
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sogn_og_Fjordane

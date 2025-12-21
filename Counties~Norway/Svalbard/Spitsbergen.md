@@ -4,26 +4,27 @@ aliases:
   - Vest Spitsbergen
   - Vestspitsbergen
   - Spitzbergen
+  - Spitsbergen
 has_id_wikidata: Q21162
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Greenland_Sea,132868]]"
-highest_point: "[[_Standards/WikiData/WD~Newtontoppen,1419222]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Greenland_Sea,132868]]'
+highest_point: '[[_Standards/WikiData/WD~Newtontoppen,1419222]]'
 coordinate_location: Point(16.0 78.75)
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Svalbard,25231]]"
-part_of: "[[_Standards/WikiData/WD~Svalbard,25231]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Svalbard,25231]]"
-capital: "[[_Standards/WikiData/WD~Longyearbyen,25923]]"
-country: "[[_Standards/WikiData/WD~Norway,20]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Svalbard,25231]]'
+part_of: '[[_Standards/WikiData/WD~Svalbard,25231]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Svalbard,25231]]'
+capital: '[[_Standards/WikiData/WD~Longyearbyen,25923]]'
+country: '[[_Standards/WikiData/WD~Norway,20]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 elevation_above_sea_level: 1713
 population: 2642
-Norwegian_municipality_number: "2111"
+Norwegian_municipality_number: 2111
 area: 39044
-OmegaWiki_Defined_Meaning: "354853"
+OmegaWiki_Defined_Meaning: 354853
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DeGeerdalen.JPG
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Spitsbergen.png
-U_S_National_Archives_Identifier: "10044787"
+U_S_National_Archives_Identifier: 10044787
 Libris_URI: 53hkkrsp473lq46
 Commons_category: Spitsbergen
 ---

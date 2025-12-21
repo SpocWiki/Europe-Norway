@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Drontheim
+  - Trondheim
 location:
   - 63.43
   - 10.42
@@ -9,13 +12,11 @@ mapmarker: city
 type: City
 tags:
   - geo/City
-SpocWebEntityId: 
-- 35003
-- 29889
+SpocWebEntityId:
+  - 35003
+  - 29889
 isDeleted: false
 confidential: public
-aliases:
-  - Drontheim
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

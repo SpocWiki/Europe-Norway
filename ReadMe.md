@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Norway
+  - Noruega
+  - Norvège
+  - النرويج
+  - 挪威
+  - Норвегия
+  - the Kingdom of Norway
+  - el Reino de Noruega
+  - ReadMe
 location:
   - 61.8685
   - 11.4588
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Norway
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Norway
-  - Noruega
-  - Norvège
-  - النرويج
-  - 挪威
-  - Норвегия
-  - the Kingdom of Norway
-  - el Reino de Noruega
+publishDate: ''
+expiryDate: ''
 Languages:
   - no
   - nb

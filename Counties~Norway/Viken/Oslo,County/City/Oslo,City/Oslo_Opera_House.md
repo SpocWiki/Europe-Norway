@@ -2,30 +2,31 @@
 aliases:
   - Oslo Opera House
   - Operahuset
+  - Oslo_Opera_House
 has_id_wikidata: Q43280
 instance_of:
-  - "[[_Standards/WikiData/WD~opera_house,153562]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~concert_hall,1060829]]"
-architect: "[[_Standards/WikiData/WD~Snøhetta,511335]]"
+  - '[[_Standards/WikiData/WD~opera_house,153562]]'
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~concert_hall,1060829]]'
+architect: '[[_Standards/WikiData/WD~Snøhetta,511335]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~groundbreaking_ceremony,1068633]]"
-  - "[[_Standards/WikiData/WD~foundation_stone_laying_ceremony,18752057]]"
-occupant: "[[_Standards/WikiData/WD~Norwegian_National_Opera_and_Ballet,1186798]]"
-structure_replaces: "[[_Standards/WikiData/WD~Nylands_mekaniske_verksted,1189406]]"
-creator: "[[_Standards/WikiData/WD~Craig_Dykers,5180916]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Oslo_Municipality,5245991]]"
-commissioned_by: "[[_Standards/WikiData/WD~Norwegian_Directorate_of_Public_Construction_and_Property,7604466]]"
-heritage_designation: "[[_Standards/WikiData/WD~cultural_heritage_preservation_in_Norway,11970056]]"
-located_on_street: "[[_Standards/WikiData/WD~Kirsten_Flagstads_plass,19377223]]"
+  - '[[_Standards/WikiData/WD~groundbreaking_ceremony,1068633]]'
+  - '[[_Standards/WikiData/WD~foundation_stone_laying_ceremony,18752057]]'
+occupant: '[[_Standards/WikiData/WD~Norwegian_National_Opera_and_Ballet,1186798]]'
+structure_replaces: '[[_Standards/WikiData/WD~Nylands_mekaniske_verksted,1189406]]'
+creator: '[[_Standards/WikiData/WD~Craig_Dykers,5180916]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Oslo_Municipality,5245991]]'
+commissioned_by: '[[_Standards/WikiData/WD~Norwegian_Directorate_of_Public_Construction_and_Property,7604466]]'
+heritage_designation: '[[_Standards/WikiData/WD~cultural_heritage_preservation_in_Norway,11970056]]'
+located_on_street: '[[_Standards/WikiData/WD~Kirsten_Flagstads_plass,19377223]]'
 coordinate_location: Point(10.753611111 59.906944444)
-location: "[[_Standards/WikiData/WD~Oslo,585]]"
-owned_by: "[[_Standards/WikiData/WD~Oslo,585]]"
-country: "[[_Standards/WikiData/WD~Norway,20]]"
-inspired_by: "[[_Standards/WikiData/WD~iceberg,47568]]"
+location: '[[_Standards/WikiData/WD~Oslo,585]]'
+owned_by: '[[_Standards/WikiData/WD~Oslo,585]]'
+country: '[[_Standards/WikiData/WD~Norway,20]]'
+inspired_by: '[[_Standards/WikiData/WD~iceberg,47568]]'
 maximum_capacity: 1964
 capital_cost: 4356000000
-postal_code: "0150"
+postal_code: 0150
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Full%20Opera%20by%20night.jpg
 inception: 2008-01-01T00:00:00Z
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Opera%20in%20Oslo.jpg

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Svalbard
+  - Spitzbergen
 has_id_wikidata: Q25231
 location:
   - 78
@@ -13,19 +16,16 @@ isDeleted: false
 SpocWebEntityId: 76730
 tags:
   - geo/Country/Region
-aliases:
-  - Svalbard
-  - Spitzbergen
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 UMLS_CUI: C0087013
 Wolfram_Language_entity_code: Entity["Country", "Svalbard"]
 ISO_3166_2_code: NO-21
@@ -37,64 +37,64 @@ demonym:
   - svalbardianer
   - svalbardianar
 GENC_3_character_code: XSV
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_system,166747]]"
-ethnic_group: "[[_Standards/WikiData/WD~Norwegians,188779]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_system,166747]]'
+ethnic_group: '[[_Standards/WikiData/WD~Norwegians,188779]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Nordaustlandet,207374]]"
-  - "[[_Standards/WikiData/WD~Edgeøya,695120]]"
-  - "[[_Standards/WikiData/WD~Hopen,845873]]"
-  - "[[_Standards/WikiData/WD~Spitsbergen,21162]]"
+  - '[[_Standards/WikiData/WD~Nordaustlandet,207374]]'
+  - '[[_Standards/WikiData/WD~Edgeøya,695120]]'
+  - '[[_Standards/WikiData/WD~Hopen,845873]]'
+  - '[[_Standards/WikiData/WD~Spitsbergen,21162]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Svalbard,662074]]"
-highest_point: "[[_Standards/WikiData/WD~Newtontoppen,1419222]]"
-heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Svalbard,1793093]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_Svalbard,2565583]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Svalbard,5333783]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Svalbard,7112468]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Svalbard,662074]]'
+highest_point: '[[_Standards/WikiData/WD~Newtontoppen,1419222]]'
+heritage_designation: '[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Svalbard,1793093]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Governor_of_Svalbard,2565583]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Svalbard,5333783]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Svalbard,7112468]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~first_level_administrative_division,10864048]]"
-  - "[[_Standards/WikiData/WD~integral_overseas_territory,26934845]]"
-  - "[[_Standards/WikiData/WD~archipelago,33837]]"
+  - '[[_Standards/WikiData/WD~first_level_administrative_division,10864048]]'
+  - '[[_Standards/WikiData/WD~integral_overseas_territory,26934845]]'
+  - '[[_Standards/WikiData/WD~archipelago,33837]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(v),23038979]]"
-  - "[[_Standards/WikiData/WD~(viii),23038983]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-  - "[[_Standards/WikiData/WD~(vii),23038981]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Svalbard,58226287]]"
-head_of_government: "[[_Standards/WikiData/WD~Lars_Fause,98399126]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
-language_used: "[[_Standards/WikiData/WD~Norwegian,9043]]"
-official_language: "[[_Standards/WikiData/WD~Norwegian,9043]]"
-capital: "[[_Standards/WikiData/WD~Longyearbyen,25923]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~Central_European_Time,25989]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Norway,20]]"
-country: "[[_Standards/WikiData/WD~Norway,20]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Norwegian_Sea,47545]]"
+  - '[[_Standards/WikiData/WD~(v),23038979]]'
+  - '[[_Standards/WikiData/WD~(viii),23038983]]'
+  - '[[_Standards/WikiData/WD~(vi),23038980]]'
+  - '[[_Standards/WikiData/WD~(vii),23038981]]'
+  - '[[_Standards/WikiData/WD~(ix),23038985]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Svalbard,58226287]]'
+head_of_government: '[[_Standards/WikiData/WD~Lars_Fause,98399126]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
+language_used: '[[_Standards/WikiData/WD~Norwegian,9043]]'
+official_language: '[[_Standards/WikiData/WD~Norwegian,9043]]'
+capital: '[[_Standards/WikiData/WD~Longyearbyen,25923]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~Central_European_Time,25989]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Norway,20]]'
+country: '[[_Standards/WikiData/WD~Norway,20]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Norwegian_Sea,47545]]'
 elevation_above_sea_level: 1713
 population: 2668
 perimeter: 3587
-Norwegian_municipality_number: "2100"
+Norwegian_municipality_number: 2100
 area: 61022
 PM20_geo_code: A13
 coordinate_location: Point(15.86426 78.15706)
 BHCL_UUID: 88ec28d3-182f-4c29-9387-6521da1ed292
 FIPS_10_4_countries_and_regions_: SV
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg
-SSR_place_name_number: "586988"
-U_S_National_Archives_Identifier: "10044777"
+SSR_place_name_number: 586988
+U_S_National_Archives_Identifier: 10044777
 Commons_gallery: Svalbard
 Commons_category: Svalbard
 subreddit: Svalbard

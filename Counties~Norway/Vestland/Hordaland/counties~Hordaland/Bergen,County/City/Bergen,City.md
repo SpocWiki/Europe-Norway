@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bergen
+  - Bergen,City
 location:
   - 60.4
   - 5.3
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 29116
 isDeleted: false
 confidential: public
-aliases:
-  - Bergen
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
