@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2008-01-01 
 aliases:
   - Oslo Opera House
   - Operahuset

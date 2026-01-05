@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1048-01-01 
 aliases:
   - Oslo
   - Oslo,City
