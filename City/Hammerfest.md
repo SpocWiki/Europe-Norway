@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30751
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.67
+dv_has_place_latitude: 70.67
+dv_name: Hammerfest
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.67] 
-[has_place_latitude::70.67] 
-[name::Hammerfest] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hammerfest](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest|Hammerfest]] 
 
-### [Hammerfest.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.public|Hammerfest.public]] 
 
-### [Hammerfest.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.internal|Hammerfest.internal]] 
 
-### [Hammerfest.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.protect|Hammerfest.protect]] 
 
-### [Hammerfest.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.private|Hammerfest.private]] 
 
-### [Hammerfest.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.personal|Hammerfest.personal]] 
 
-### [Hammerfest.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Hammerfest.secret|Hammerfest.secret]] 
 

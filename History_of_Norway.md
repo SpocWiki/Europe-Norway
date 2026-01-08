@@ -4,20 +4,23 @@ aliases:
   - History_of_Norway
   - History of Norway
 has_id_wikidata: Q210725
-has_part_s_: '[[_Standards/WikiData/WD~Kingdom_of_Norway,2196956]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Norway,25731561]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Norway,20]]'
-country: '[[_Standards/WikiData/WD~Norway,20]]'
+has_part_s_: "[[_Standards/WikiData/WD~Kingdom_of_Norway,2196956]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Norway,25731561]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Norway,20]]"
+country: "[[_Standards/WikiData/WD~Norway,20]]"
 Dewey_Decimal_Classification: 948.1
 Commons_category: History of Norway
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Norway,210725]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Norway,210725]]"
 ---
 
 # [[History_of_Norway]] 
 
-#is_/same_as :: [[WD~History_of_Norway,210725]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -59,4 +62,21 @@ Commons_category: History of Norway
 > By the 21st century, Norway became one of the world's most prosperous countries with oil and gas production accounting for 20 percent of its economy. By reinvesting its oil revenues, Norway had the world's largest sovereign wealth fund in 2017.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Norway) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/History_of_Norway|History_of_Norway]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/History_of_Norway.public|History_of_Norway.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/History_of_Norway.internal|History_of_Norway.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/History_of_Norway.protect|History_of_Norway.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/History_of_Norway.private|History_of_Norway.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/History_of_Norway.personal|History_of_Norway.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/History_of_Norway.secret|History_of_Norway.secret]] 
 

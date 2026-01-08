@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35001
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.97
+dv_has_place_latitude: 69.63
+dv_name: Tromsoe
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.97] 
-[has_place_latitude::69.63] 
-[name::Tromsoe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tromsoe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe|Tromsoe]] 
 
-### [Tromsoe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.public|Tromsoe.public]] 
 
-### [Tromsoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.internal|Tromsoe.internal]] 
 
-### [Tromsoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.protect|Tromsoe.protect]] 
 
-### [Tromsoe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.private|Tromsoe.private]] 
 
-### [Tromsoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.personal|Tromsoe.personal]] 
 
-### [Tromsoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Tromsoe.secret|Tromsoe.secret]] 
 

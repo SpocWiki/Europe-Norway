@@ -1,3 +1,12 @@
+---
+dv_has_:
+  previous_item:
+    - "[[Vestland/Hordaland]]"
+    - "[[Vestland/Sogn_og_Fjordane]]"
+dv_has_previous_item:
+  - "[[Vestland/Hordaland]]"
+  - "[[Vestland/Sogn_og_Fjordane]]"
+---
 
 #has_/previous_item :: [[Vestland/Hordaland]] 
 #has_/previous_item :: [[Vestland/Sogn_og_Fjordane]]  
@@ -18,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Vestland](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland|Vestland]] 
 
-### [Vestland.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.public|Vestland.public]] 
 
-### [Vestland.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.internal|Vestland.internal]] 
 
-### [Vestland.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.protect|Vestland.protect]] 
 
-### [Vestland.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.private|Vestland.private]] 
 
-### [Vestland.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.personal|Vestland.personal]] 
 
-### [Vestland.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland.secret|Vestland.secret]] 
 

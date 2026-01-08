@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30186
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.02
+dv_has_place_latitude: 58.08
+dv_name: Flekkeroe
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.02] 
-[has_place_latitude::58.08] 
-[name::Flekkeroe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flekkeroe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe|Flekkeroe]] 
 
-### [Flekkeroe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.public|Flekkeroe.public]] 
 
-### [Flekkeroe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.internal|Flekkeroe.internal]] 
 
-### [Flekkeroe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.protect|Flekkeroe.protect]] 
 
-### [Flekkeroe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.private|Flekkeroe.private]] 
 
-### [Flekkeroe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.personal|Flekkeroe.personal]] 
 
-### [Flekkeroe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Flekkeroe.secret|Flekkeroe.secret]] 
 

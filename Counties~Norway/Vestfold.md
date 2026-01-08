@@ -40,17 +40,17 @@ markerFolder: ./Vestfold/
 
 ## Confidential Links & Embeds: 
 
-### [Vestfold](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold|Vestfold]] 
 
-### [Vestfold.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.public|Vestfold.public]] 
 
-### [Vestfold.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.internal|Vestfold.internal]] 
 
-### [Vestfold.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.protect|Vestfold.protect]] 
 
-### [Vestfold.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.private|Vestfold.private]] 
 
-### [Vestfold.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.personal|Vestfold.personal]] 
 
-### [Vestfold.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestfold.secret|Vestfold.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32320
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.98
+dv_has_place_latitude: 57.98
+dv_name: Markoe
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.98] 
-[has_place_latitude::57.98] 
-[name::Markoe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Markoe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Markoe|Markoe]] 
 
-### [Markoe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.public|Markoe.public]] 
 
-### [Markoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.internal|Markoe.internal]] 
 
-### [Markoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.protect|Markoe.protect]] 
 
-### [Markoe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.private|Markoe.private]] 
 
-### [Markoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.personal|Markoe.personal]] 
 
-### [Markoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Markoe.secret|Markoe.secret]] 
 

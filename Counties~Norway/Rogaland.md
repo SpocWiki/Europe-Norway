@@ -40,17 +40,17 @@ markerFolder: ./Rogaland/
 
 ## Confidential Links & Embeds: 
 
-### [Rogaland](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland|Rogaland]] 
 
-### [Rogaland.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.public|Rogaland.public]] 
 
-### [Rogaland.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.internal|Rogaland.internal]] 
 
-### [Rogaland.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.protect|Rogaland.protect]] 
 
-### [Rogaland.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.private|Rogaland.private]] 
 
-### [Rogaland.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.personal|Rogaland.personal]] 
 
-### [Rogaland.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland.secret|Rogaland.secret]] 
 

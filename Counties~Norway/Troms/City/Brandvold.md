@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29315
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.17
+dv_has_place_latitude: 68.82
+dv_name: Brandvold
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.17] 
-[has_place_latitude::68.82] 
-[name::Brandvold] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brandvold](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold|Brandvold]] 
 
-### [Brandvold.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.public|Brandvold.public]] 
 
-### [Brandvold.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.internal|Brandvold.internal]] 
 
-### [Brandvold.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.protect|Brandvold.protect]] 
 
-### [Brandvold.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.private|Brandvold.private]] 
 
-### [Brandvold.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.personal|Brandvold.personal]] 
 
-### [Brandvold.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms/City/Brandvold.secret|Brandvold.secret]] 
 

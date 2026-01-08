@@ -41,17 +41,17 @@ markerFolder: ./Møre_og_Romsdal/
 
 ## Confidential Links & Embeds: 
 
-### [Møre_og_Romsdal](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal|Møre_og_Romsdal]] 
 
-### [Møre_og_Romsdal.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.public|Møre_og_Romsdal.public]] 
 
-### [Møre_og_Romsdal.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.internal|Møre_og_Romsdal.internal]] 
 
-### [Møre_og_Romsdal.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.protect|Møre_og_Romsdal.protect]] 
 
-### [Møre_og_Romsdal.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.private|Møre_og_Romsdal.private]] 
 
-### [Møre_og_Romsdal.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.personal|Møre_og_Romsdal.personal]] 
 
-### [Møre_og_Romsdal.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal.secret|Møre_og_Romsdal.secret]] 
 

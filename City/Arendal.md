@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28858
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.8
+dv_has_place_latitude: 58.43
+dv_name: Arendal
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.8] 
-[has_place_latitude::58.43] 
-[name::Arendal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arendal](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Arendal|Arendal]] 
 
-### [Arendal.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.public|Arendal.public]] 
 
-### [Arendal.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.internal|Arendal.internal]] 
 
-### [Arendal.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.protect|Arendal.protect]] 
 
-### [Arendal.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.private|Arendal.private]] 
 
-### [Arendal.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.personal|Arendal.personal]] 
 
-### [Arendal.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Arendal.secret|Arendal.secret]] 
 

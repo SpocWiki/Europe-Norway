@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35209
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 31.12
+dv_has_place_latitude: 70.38
+dv_name: Vardoehuis
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::31.12] 
-[has_place_latitude::70.38] 
-[name::Vardoehuis] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vardoehuis](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis|Vardoehuis]] 
 
-### [Vardoehuis.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.public|Vardoehuis.public]] 
 
-### [Vardoehuis.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.internal|Vardoehuis.internal]] 
 
-### [Vardoehuis.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.protect|Vardoehuis.protect]] 
 
-### [Vardoehuis.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.private|Vardoehuis.private]] 
 
-### [Vardoehuis.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.personal|Vardoehuis.personal]] 
 
-### [Vardoehuis.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Vardoehuis.secret|Vardoehuis.secret]] 
 

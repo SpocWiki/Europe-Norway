@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30247
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.93
+dv_has_place_latitude: 59.2
+dv_name: Frederiksstad
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.93] 
-[has_place_latitude::59.2] 
-[name::Frederiksstad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frederiksstad](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad|Frederiksstad]] 
 
-### [Frederiksstad.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.public|Frederiksstad.public]] 
 
-### [Frederiksstad.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.internal|Frederiksstad.internal]] 
 
-### [Frederiksstad.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.protect|Frederiksstad.protect]] 
 
-### [Frederiksstad.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.private|Frederiksstad.private]] 
 
-### [Frederiksstad.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.personal|Frederiksstad.personal]] 
 
-### [Frederiksstad.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Frederiksstad.secret|Frederiksstad.secret]] 
 

@@ -1,8 +1,16 @@
+---
+dv_has_:
+  time_:
+    started: 2020-01-01T00:00:00.000+01:00
+    stopped: 2024-01-01T00:00:00.000+01:00
+dv_has_time_started: 2020-01-01
+dv_has_time_stopped: 2024-01-01
+---
 
 #has_/previous_item :: 
 
-#has_/time_/started :: 2020-01-01 
-#has_/time_/stopped  :: 2024-01-01 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 
 ## #has_/text_of_/abstract 
 
@@ -32,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Viken](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken|Viken]] 
 
-### [Viken.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.public|Viken.public]] 
 
-### [Viken.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.internal|Viken.internal]] 
 
-### [Viken.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.protect|Viken.protect]] 
 
-### [Viken.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.private|Viken.private]] 
 
-### [Viken.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.personal|Viken.personal]] 
 
-### [Viken.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken.secret|Viken.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Akershus/
 
 ## Confidential Links & Embeds: 
 
-### [Akershus](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus|Akershus]] 
 
-### [Akershus.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.public|Akershus.public]] 
 
-### [Akershus.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.internal|Akershus.internal]] 
 
-### [Akershus.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.protect|Akershus.protect]] 
 
-### [Akershus.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.private|Akershus.private]] 
 
-### [Akershus.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.personal|Akershus.personal]] 
 
-### [Akershus.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Akershus.secret|Akershus.secret]] 
 

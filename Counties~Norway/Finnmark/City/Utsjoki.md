@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35147
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.95
+dv_has_place_latitude: 69.58
+dv_name: Utsjoki
+dv_Country: "[[../../../../Finland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.95] 
-[has_place_latitude::69.58] 
-[name::Utsjoki] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Finland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utsjoki](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki|Utsjoki]] 
 
-### [Utsjoki.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.public|Utsjoki.public]] 
 
-### [Utsjoki.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.internal|Utsjoki.internal]] 
 
-### [Utsjoki.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.protect|Utsjoki.protect]] 
 
-### [Utsjoki.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.private|Utsjoki.private]] 
 
-### [Utsjoki.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.personal|Utsjoki.personal]] 
 
-### [Utsjoki.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Utsjoki.secret|Utsjoki.secret]] 
 

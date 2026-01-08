@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31608
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.52
+dv_has_place_latitude: 58.87
+dv_name: Krageroe
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.52] 
-[has_place_latitude::58.87] 
-[name::Krageroe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krageroe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe|Krageroe]] 
 
-### [Krageroe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.public|Krageroe.public]] 
 
-### [Krageroe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.internal|Krageroe.internal]] 
 
-### [Krageroe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.protect|Krageroe.protect]] 
 
-### [Krageroe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.private|Krageroe.private]] 
 
-### [Krageroe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.personal|Krageroe.personal]] 
 
-### [Krageroe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Krageroe.secret|Krageroe.secret]] 
 

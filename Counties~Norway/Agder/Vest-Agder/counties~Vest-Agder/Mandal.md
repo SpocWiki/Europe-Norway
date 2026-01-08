@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32250
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.48
+dv_has_place_latitude: 58.02
+dv_name: Mandal
+dv_Country: "[[../../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.48] 
-[has_place_latitude::58.02] 
-[name::Mandal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mandal](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal|Mandal]] 
 
-### [Mandal.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.public|Mandal.public]] 
 
-### [Mandal.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.internal|Mandal.internal]] 
 
-### [Mandal.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.protect|Mandal.protect]] 
 
-### [Mandal.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.private|Mandal.private]] 
 
-### [Mandal.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.personal|Mandal.personal]] 
 
-### [Mandal.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Mandal.secret|Mandal.secret]] 
 

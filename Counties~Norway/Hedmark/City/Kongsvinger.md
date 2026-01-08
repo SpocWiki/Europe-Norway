@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31558
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.97
+dv_has_place_latitude: 60.2
+dv_name: Kongsvinger
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.97] 
-[has_place_latitude::60.2] 
-[name::Kongsvinger] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kongsvinger](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger|Kongsvinger]] 
 
-### [Kongsvinger.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.public|Kongsvinger.public]] 
 
-### [Kongsvinger.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.internal|Kongsvinger.internal]] 
 
-### [Kongsvinger.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.protect|Kongsvinger.protect]] 
 
-### [Kongsvinger.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.private|Kongsvinger.private]] 
 
-### [Kongsvinger.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.personal|Kongsvinger.personal]] 
 
-### [Kongsvinger.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Hedmark/City/Kongsvinger.secret|Kongsvinger.secret]] 
 

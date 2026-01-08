@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32144
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.6
+dv_has_place_latitude: 58.45
+dv_name: Lunde
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.6] 
-[has_place_latitude::58.45] 
-[name::Lunde] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lunde](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde|Lunde]] 
 
-### [Lunde.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.public|Lunde.public]] 
 
-### [Lunde.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.internal|Lunde.internal]] 
 
-### [Lunde.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.protect|Lunde.protect]] 
 
-### [Lunde.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.private|Lunde.private]] 
 
-### [Lunde.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.personal|Lunde.personal]] 
 
-### [Lunde.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/City/Lunde.secret|Lunde.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31557
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.65
+dv_has_place_latitude: 59.65
+dv_name: Kongsberg
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.65] 
-[has_place_latitude::59.65] 
-[name::Kongsberg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kongsberg](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg|Kongsberg]] 
 
-### [Kongsberg.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.public|Kongsberg.public]] 
 
-### [Kongsberg.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.internal|Kongsberg.internal]] 
 
-### [Kongsberg.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.protect|Kongsberg.protect]] 
 
-### [Kongsberg.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.private|Kongsberg.private]] 
 
-### [Kongsberg.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.personal|Kongsberg.personal]] 
 
-### [Kongsberg.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Buskerud/City/Kongsberg.secret|Kongsberg.secret]] 
 

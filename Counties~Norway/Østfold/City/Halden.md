@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30718
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.43
+dv_has_place_latitude: 59.13
+dv_name: Halden
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.43] 
-[has_place_latitude::59.13] 
-[name::Halden] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halden](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden|Halden]] 
 
-### [Halden.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.public|Halden.public]] 
 
-### [Halden.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.internal|Halden.internal]] 
 
-### [Halden.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.protect|Halden.protect]] 
 
-### [Halden.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.private|Halden.private]] 
 
-### [Halden.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.personal|Halden.personal]] 
 
-### [Halden.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Østfold/City/Halden.secret|Halden.secret]] 
 

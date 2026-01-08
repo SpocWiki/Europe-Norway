@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35208
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 31.13
+dv_has_place_latitude: 70.37
+dv_name: Vardoe
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::31.13] 
-[has_place_latitude::70.37] 
-[name::Vardoe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vardoe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe|Vardoe]] 
 
-### [Vardoe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.public|Vardoe.public]] 
 
-### [Vardoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.internal|Vardoe.internal]] 
 
-### [Vardoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.protect|Vardoe.protect]] 
 
-### [Vardoe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.private|Vardoe.private]] 
 
-### [Vardoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.personal|Vardoe.personal]] 
 
-### [Vardoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Vardoe.secret|Vardoe.secret]] 
 

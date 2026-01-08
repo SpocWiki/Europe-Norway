@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28776
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.08
+dv_has_place_latitude: 69.92
+dv_name: Altengaard
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.08] 
-[has_place_latitude::69.92] 
-[name::Altengaard] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altengaard](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard|Altengaard]] 
 
-### [Altengaard.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.public|Altengaard.public]] 
 
-### [Altengaard.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.internal|Altengaard.internal]] 
 
-### [Altengaard.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.protect|Altengaard.protect]] 
 
-### [Altengaard.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.private|Altengaard.private]] 
 
-### [Altengaard.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.personal|Altengaard.personal]] 
 
-### [Altengaard.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark/City/Altengaard.secret|Altengaard.secret]] 
 

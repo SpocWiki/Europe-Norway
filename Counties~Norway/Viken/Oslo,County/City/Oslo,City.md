@@ -1,4 +1,11 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.73
+dv_has_place_latitude: 59.91
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Oslo,585|WD~Oslo,585]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Oslo,585|WD~Oslo,585]]"
+
 has_time_started: 1048-01-01 
 aliases:
   - Oslo
@@ -147,15 +154,15 @@ FIPS_10_4_countries_and_regions_: NO12
 # [[Oslo,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.73] 
-[has_place_latitude::59.91] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [name::Oslo] 
 State ::  
 Country :: [[Norway]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Oslo,585|WD~Oslo,585]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -186,17 +193,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oslo,City](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City|Oslo,City]] 
 
-### [Oslo,City.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.public|Oslo,City.public]] 
 
-### [Oslo,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.internal|Oslo,City.internal]] 
 
-### [Oslo,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.protect|Oslo,City.protect]] 
 
-### [Oslo,City.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.private|Oslo,City.private]] 
 
-### [Oslo,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.personal|Oslo,City.personal]] 
 
-### [Oslo,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City.secret|Oslo,City.secret]] 
 

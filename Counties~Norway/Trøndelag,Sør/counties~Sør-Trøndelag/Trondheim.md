@@ -17,14 +17,19 @@ SpocWebEntityId:
   - 29889
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 10.42
+dv_has_place_latitude: 63.43
+dv_name: Trondheim
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::10.42] 
-[has_place_latitude::63.43] 
-[name::Trondheim] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trondheim](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim|Trondheim]] 
 
-### [Trondheim.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.public|Trondheim.public]] 
 
-### [Trondheim.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.internal|Trondheim.internal]] 
 
-### [Trondheim.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.protect|Trondheim.protect]] 
 
-### [Trondheim.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.private|Trondheim.private]] 
 
-### [Trondheim.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.personal|Trondheim.personal]] 
 
-### [Trondheim.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim.secret|Trondheim.secret]] 
 

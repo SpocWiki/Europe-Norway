@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34313
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.32
+dv_has_place_latitude: 59.15
+dv_name: Skudenaeshavn
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.32] 
-[has_place_latitude::59.15] 
-[name::Skudenaeshavn] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skudenaeshavn](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn|Skudenaeshavn]] 
 
-### [Skudenaeshavn.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.public|Skudenaeshavn.public]] 
 
-### [Skudenaeshavn.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.internal|Skudenaeshavn.internal]] 
 
-### [Skudenaeshavn.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.protect|Skudenaeshavn.protect]] 
 
-### [Skudenaeshavn.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.private|Skudenaeshavn.private]] 
 
-### [Skudenaeshavn.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.personal|Skudenaeshavn.personal]] 
 
-### [Skudenaeshavn.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Skudenaeshavn.secret|Skudenaeshavn.secret]] 
 

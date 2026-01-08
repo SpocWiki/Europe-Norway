@@ -20,17 +20,21 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_has_:
+  next_:
+    item: "[[../Vestland|Vestland]]"
+dv_has_next_item: "[[../Vestland|Vestland]]"
 ---
 
 # Sogn_og_Fjordane
 
 
-#has_/next_/item :: [[../Vestland|Vestland]] 
+has_next_item = `=this.dv_has_next_item`
 
 ```leaflet
 id: Sogn_og_Fjordane
@@ -44,17 +48,17 @@ markerFolder: ./Sogn_og_Fjordane/
 
 ## Confidential Links & Embeds: 
 
-### [Sogn_og_Fjordane](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane|Sogn_og_Fjordane]] 
 
-### [Sogn_og_Fjordane.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.public|Sogn_og_Fjordane.public]] 
 
-### [Sogn_og_Fjordane.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.internal|Sogn_og_Fjordane.internal]] 
 
-### [Sogn_og_Fjordane.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.protect|Sogn_og_Fjordane.protect]] 
 
-### [Sogn_og_Fjordane.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.private|Sogn_og_Fjordane.private]] 
 
-### [Sogn_og_Fjordane.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.personal|Sogn_og_Fjordane.personal]] 
 
-### [Sogn_og_Fjordane.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Sogn_og_Fjordane.secret|Sogn_og_Fjordane.secret]] 
 

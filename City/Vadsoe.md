@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35163
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.78
+dv_has_place_latitude: 70.07
+dv_name: Vadsoe
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.78] 
-[has_place_latitude::70.07] 
-[name::Vadsoe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vadsoe](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe|Vadsoe]] 
 
-### [Vadsoe.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.public|Vadsoe.public]] 
 
-### [Vadsoe.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.internal|Vadsoe.internal]] 
 
-### [Vadsoe.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.protect|Vadsoe.protect]] 
 
-### [Vadsoe.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.private|Vadsoe.private]] 
 
-### [Vadsoe.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.personal|Vadsoe.personal]] 
 
-### [Vadsoe.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Vadsoe.secret|Vadsoe.secret]] 
 

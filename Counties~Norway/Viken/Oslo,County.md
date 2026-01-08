@@ -41,17 +41,17 @@ markerFolder: ./Oslo/
 
 ## Confidential Links & Embeds: 
 
-### [Oslo,County](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County|Oslo,County]] 
 
-### [Oslo,County.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.public|Oslo,County.public]] 
 
-### [Oslo,County.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.internal|Oslo,County.internal]] 
 
-### [Oslo,County.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.protect|Oslo,County.protect]] 
 
-### [Oslo,County.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.private|Oslo,County.private]] 
 
-### [Oslo,County.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.personal|Oslo,County.personal]] 
 
-### [Oslo,County.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County.secret|Oslo,County.secret]] 
 

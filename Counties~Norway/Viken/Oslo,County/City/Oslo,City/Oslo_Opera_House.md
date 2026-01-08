@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Building", "OsloOperaHouse: 974hn"
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Oslo_Opera_House,43280]]"
+dv_building-oslooperahouse: 974hn"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Oslo_Opera_House,43280]]"
+
 has_time_started: 2008-01-01 
 aliases:
   - Oslo Opera House
@@ -33,7 +39,7 @@ inception: 2008-01-01T00:00:00Z
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Opera%20in%20Oslo.jpg
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/OsloOperaBj%C3%B8rvika2008-03-25-11.jpg
 official_website: https://www.operaen.no/
-Wolfram_Language_entity_code: Entity["Building", "OsloOperaHouse::974hn"]
+Wolfram_Language_entity_code: Entity"Building", "OsloOperaHouse = `=this.dv_"Building", "OsloOperaHouse`
 Commons_category: Oslo Opera house
 street_address: Kirsten Flagstads Plass 1
 date_of_official_opening: 2008-04-12T00:00:00Z
@@ -41,7 +47,7 @@ date_of_official_opening: 2008-04-12T00:00:00Z
 
 # [[Oslo_Opera_House]] 
 
-#is_/same_as :: [[WD~Oslo_Opera_House,43280]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -65,4 +71,21 @@ date_of_official_opening: 2008-04-12T00:00:00Z
 > It is the largest cultural building constructed in Norway since Nidaros Cathedral was completed circa 1300.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oslo%20Opera%20House)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City/Oslo_Opera_House|Oslo_Opera_House]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City/Oslo_Opera_House.public|Oslo_Opera_House.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City/Oslo_Opera_House.internal|Oslo_Opera_House.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City/Oslo_Opera_House.protect|Oslo_Opera_House.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City/Oslo_Opera_House.private|Oslo_Opera_House.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City/Oslo_Opera_House.personal|Oslo_Opera_House.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City/Oslo_Opera_House.secret|Oslo_Opera_House.secret]] 
 

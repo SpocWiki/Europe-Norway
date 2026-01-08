@@ -40,17 +40,17 @@ markerFolder: ./Troms/
 
 ## Confidential Links & Embeds: 
 
-### [Troms](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms|Troms]] 
 
-### [Troms.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.public|Troms.public]] 
 
-### [Troms.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.internal|Troms.internal]] 
 
-### [Troms.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.protect|Troms.protect]] 
 
-### [Troms.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.private|Troms.private]] 
 
-### [Troms.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.personal|Troms.personal]] 
 
-### [Troms.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Troms.secret|Troms.secret]] 
 

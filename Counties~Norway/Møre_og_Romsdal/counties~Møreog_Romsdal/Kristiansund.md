@@ -16,14 +16,19 @@ SpocWebEntityId:
   - 29605
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.72
+dv_has_place_latitude: 63.12
+dv_name: Christiansund
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.72] 
-[has_place_latitude::63.12] 
-[name::Christiansund] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -40,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kristiansund](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund|Kristiansund]] 
 
-### [Kristiansund.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.public|Kristiansund.public]] 
 
-### [Kristiansund.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.internal|Kristiansund.internal]] 
 
-### [Kristiansund.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.protect|Kristiansund.protect]] 
 
-### [Kristiansund.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.private|Kristiansund.private]] 
 
-### [Kristiansund.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.personal|Kristiansund.personal]] 
 
-### [Kristiansund.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Møre_og_Romsdal/counties~Møreog_Romsdal/Kristiansund.secret|Kristiansund.secret]] 
 

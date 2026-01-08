@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32160
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.12
+dv_has_place_latitude: 58.15
+dv_name: Lyngdal
+dv_Country: "[[../../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.12] 
-[has_place_latitude::58.15] 
-[name::Lyngdal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lyngdal](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal|Lyngdal]] 
 
-### [Lyngdal.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.public|Lyngdal.public]] 
 
-### [Lyngdal.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.internal|Lyngdal.internal]] 
 
-### [Lyngdal.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.protect|Lyngdal.protect]] 
 
-### [Lyngdal.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.private|Lyngdal.private]] 
 
-### [Lyngdal.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.personal|Lyngdal.personal]] 
 
-### [Lyngdal.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder/Vest-Agder/counties~Vest-Agder/Lyngdal.secret|Lyngdal.secret]] 
 

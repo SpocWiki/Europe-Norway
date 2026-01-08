@@ -64,20 +64,27 @@ Libris_URI: fcrtt2sz4pmmhzm
 Commons_gallery: Skagerrak
 Commons_category: Skagerrak
 coordinate_location: Point(9.073055555 57.847222222)
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 9
+dv_has_place_latitude: 58
+dv_name: Skagerrak
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Skagerrak,1695|WD~Skagerrak,1695]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Skagerrak,1695|WD~Skagerrak,1695]]"
 ---
 
 # [[Skagerrak]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9] 
-[has_place_latitude::58] 
-[name::Skagerrak] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Norway]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../WikiData/WD~Skagerrak,1695|WD~Skagerrak,1695]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -109,19 +116,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Skagerrak)
 
+
 ## Confidential Links & Embeds: 
 
-### [Skagerrak](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak|Skagerrak]] 
 
-### [Skagerrak.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.public|Skagerrak.public]] 
 
-### [Skagerrak.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.internal|Skagerrak.internal]] 
 
-### [Skagerrak.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.protect|Skagerrak.protect]] 
 
-### [Skagerrak.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.private|Skagerrak.private]] 
 
-### [Skagerrak.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.personal|Skagerrak.personal]] 
 
-### [Skagerrak.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Skagerrak.secret|Skagerrak.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28818
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.62
+dv_has_place_latitude: 62.57
+dv_name: Andalsnes
+dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.62] 
-[has_place_latitude::62.57] 
-[name::Andalsnes] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Andalsnes](/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes|Andalsnes]] 
 
-### [Andalsnes.public](/_public/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.public|Andalsnes.public]] 
 
-### [Andalsnes.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.internal|Andalsnes.internal]] 
 
-### [Andalsnes.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.protect|Andalsnes.protect]] 
 
-### [Andalsnes.private](/_private/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.private|Andalsnes.private]] 
 
-### [Andalsnes.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.personal|Andalsnes.personal]] 
 
-### [Andalsnes.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/City/Andalsnes.secret|Andalsnes.secret]] 
 

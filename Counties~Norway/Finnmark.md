@@ -40,17 +40,17 @@ markerFolder: ./Finnmark/
 
 ## Confidential Links & Embeds: 
 
-### [Finnmark](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark|Finnmark]] 
 
-### [Finnmark.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.public|Finnmark.public]] 
 
-### [Finnmark.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.internal|Finnmark.internal]] 
 
-### [Finnmark.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.protect|Finnmark.protect]] 
 
-### [Finnmark.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.private|Finnmark.private]] 
 
-### [Finnmark.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.personal|Finnmark.personal]] 
 
-### [Finnmark.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Finnmark.secret|Finnmark.secret]] 
 

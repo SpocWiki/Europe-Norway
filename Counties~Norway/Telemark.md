@@ -41,17 +41,17 @@ markerFolder: ./Telemark/
 
 ## Confidential Links & Embeds: 
 
-### [Telemark](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark|Telemark]] 
 
-### [Telemark.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.public|Telemark.public]] 
 
-### [Telemark.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.internal|Telemark.internal]] 
 
-### [Telemark.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.protect|Telemark.protect]] 
 
-### [Telemark.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.private|Telemark.private]] 
 
-### [Telemark.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.personal|Telemark.personal]] 
 
-### [Telemark.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark.secret|Telemark.secret]] 
 

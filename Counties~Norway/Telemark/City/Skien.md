@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34305
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.6
+dv_has_place_latitude: 59.2
+dv_name: Skien
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.6] 
-[has_place_latitude::59.2] 
-[name::Skien] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skien](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien|Skien]] 
 
-### [Skien.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.public|Skien.public]] 
 
-### [Skien.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.internal|Skien.internal]] 
 
-### [Skien.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.protect|Skien.protect]] 
 
-### [Skien.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.private|Skien.private]] 
 
-### [Skien.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.personal|Skien.personal]] 
 
-### [Skien.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Telemark/City/Skien.secret|Skien.secret]] 
 

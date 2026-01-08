@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 30016
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6
+dv_has_place_latitude: 58.43
+dv_name: Ekersund
+dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6] 
-[has_place_latitude::58.43] 
-[name::Ekersund] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eigersund](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund|Eigersund]] 
 
-### [Eigersund.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.public|Eigersund.public]] 
 
-### [Eigersund.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.internal|Eigersund.internal]] 
 
-### [Eigersund.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.protect|Eigersund.protect]] 
 
-### [Eigersund.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.private|Eigersund.private]] 
 
-### [Eigersund.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.personal|Eigersund.personal]] 
 
-### [Eigersund.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Rogaland/counties~Rogaland/Eigersund.secret|Eigersund.secret]] 
 

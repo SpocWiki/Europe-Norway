@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29116
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.3
+dv_has_place_latitude: 60.4
+dv_name: Bergen
+dv_Country: "[[../../../../../../../Norway]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.3] 
-[has_place_latitude::60.4] 
-[name::Bergen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Norway]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergen,City](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City|Bergen,City]] 
 
-### [Bergen,City.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.public|Bergen,City.public]] 
 
-### [Bergen,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.internal|Bergen,City.internal]] 
 
-### [Bergen,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.protect|Bergen,City.protect]] 
 
-### [Bergen,City.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.private|Bergen,City.private]] 
 
-### [Bergen,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.personal|Bergen,City.personal]] 
 
-### [Bergen,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City.secret|Bergen,City.secret]] 
 

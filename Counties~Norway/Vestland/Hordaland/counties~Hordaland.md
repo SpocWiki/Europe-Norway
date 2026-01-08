@@ -8,17 +8,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [counties~Hordaland](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland|counties~Hordaland]] 
 
-### [counties~Hordaland.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.public|counties~Hordaland.public]] 
 
-### [counties~Hordaland.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.internal|counties~Hordaland.internal]] 
 
-### [counties~Hordaland.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.protect|counties~Hordaland.protect]] 
 
-### [counties~Hordaland.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.private|counties~Hordaland.private]] 
 
-### [counties~Hordaland.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.personal|counties~Hordaland.personal]] 
 
-### [counties~Hordaland.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland.secret|counties~Hordaland.secret]] 
 

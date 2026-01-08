@@ -1,3 +1,12 @@
+---
+dv_has_:
+  previous_item:
+    - "[[Agder/Vest-Agder]]"
+    - "[[Agder/Aust-Agder]]"
+dv_has_previous_item:
+  - "[[Agder/Vest-Agder]]"
+  - "[[Agder/Aust-Agder]]"
+---
 
 #has_/previous_item :: [[Agder/Vest-Agder]] 
 #has_/previous_item :: [[Agder/Aust-Agder]] 
@@ -16,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Agder](/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder|Agder]] 
 
-### [Agder.public](/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.public|Agder.public]] 
 
-### [Agder.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.internal|Agder.internal]] 
 
-### [Agder.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.protect|Agder.protect]] 
 
-### [Agder.private](/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.private|Agder.private]] 
 
-### [Agder.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.personal|Agder.personal]] 
 
-### [Agder.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Norway/Counties~Norway/Agder.secret|Agder.secret]] 
 
