@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.75
 dv_has_place_latitude: 63.12
-dv_name: Kristiansund
+dv_has_name_: Kristiansund
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

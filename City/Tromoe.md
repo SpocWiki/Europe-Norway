@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.95
 dv_has_place_latitude: 58.43
-dv_name: Tromoe
+dv_has_name_: Tromoe
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

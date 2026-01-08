@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.67
 dv_has_place_latitude: 70.67
-dv_name: Hammerfest
+dv_has_name_: Hammerfest
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

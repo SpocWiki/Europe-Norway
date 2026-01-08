@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.08
 dv_has_place_latitude: 69.92
-dv_name: Altengaard
+dv_has_name_: Altengaard
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

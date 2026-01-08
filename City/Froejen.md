@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.25
 dv_has_place_latitude: 63.67
-dv_name: Froejen
+dv_has_name_: Froejen
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

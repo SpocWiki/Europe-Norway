@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.5
 dv_has_place_latitude: 61.13
-dv_name: Lillehammer
+dv_has_name_: Lillehammer
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

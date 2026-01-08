@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.08
 dv_has_place_latitude: 69.33
-dv_name: Andesnes
+dv_has_name_: Andesnes
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

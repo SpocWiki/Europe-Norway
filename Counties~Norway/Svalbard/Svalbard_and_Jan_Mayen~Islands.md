@@ -10,8 +10,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: SJ
 dv_ISO3: SJM
-dv_name-en: Svalbard And Jan Mayen Islands
-dv_name-de: Svalbard Inseln
+dv_has_name_en: Svalbard And Jan Mayen Islands
+dv_has_name_de: Svalbard Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[../../../../../Europe]]"
@@ -33,8 +33,8 @@ geojsonFolder: ./Svalbard_And_Jan_Mayen_Islands/
 markerFolder: ./Svalbard_And_Jan_Mayen_Islands/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 Continent = `=this.dv_Continent`

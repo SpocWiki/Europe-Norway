@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.72
 dv_has_place_latitude: 59.92
-dv_name: Christiania
+dv_has_name_: Christiania
 dv_Country: "[[../../../../../Norway]]"
 ---
 

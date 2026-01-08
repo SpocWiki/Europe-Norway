@@ -105,8 +105,8 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Svalbard.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Norway-Svalbard.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Svalbard%20%28MODIS%29.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Svalbard%20banner.jpg
-dv_name-en: Svalbard
-dv_name-de: Spitzbergen
+dv_has_name_en: Svalbard
+dv_has_name_de: Spitzbergen
 dv_has_place_continent: "[[../../../../Europe]]"
 dv_has_place_latitude: 78
 dv_is_:
@@ -132,8 +132,8 @@ dv_is_same_as:
 
 # [[Svalbard]]
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

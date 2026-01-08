@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.17
 dv_has_place_latitude: 68.82
-dv_name: Brandvold
+dv_has_name_: Brandvold
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

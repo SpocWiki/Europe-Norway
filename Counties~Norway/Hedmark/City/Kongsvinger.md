@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.97
 dv_has_place_latitude: 60.2
-dv_name: Kongsvinger
+dv_has_name_: Kongsvinger
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

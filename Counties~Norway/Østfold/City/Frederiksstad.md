@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.93
 dv_has_place_latitude: 59.2
-dv_name: Frederiksstad
+dv_has_name_: Frederiksstad
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.97
 dv_has_place_latitude: 69.63
-dv_name: Tromsoe
+dv_has_name_: Tromsoe
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

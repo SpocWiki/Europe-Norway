@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.83
 dv_has_place_latitude: 71.27
-dv_name: Mageroe
+dv_has_name_: Mageroe
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.3
 dv_has_place_latitude: 62.8
-dv_name: Molde
+dv_has_name_: Molde
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

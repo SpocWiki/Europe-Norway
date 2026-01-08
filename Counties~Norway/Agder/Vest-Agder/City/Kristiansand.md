@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.02
 dv_has_place_latitude: 58.14
-dv_name: Kristiansand
+dv_has_name_: Kristiansand
 dv_Country: "[[../../../../../Norway]]"
 ---
 #is_a_/Place  

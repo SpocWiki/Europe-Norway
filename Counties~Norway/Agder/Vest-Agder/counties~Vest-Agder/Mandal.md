@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.48
 dv_has_place_latitude: 58.02
-dv_name: Mandal
+dv_has_name_: Mandal
 dv_Country: "[[../../../../../Norway]]"
 ---
 #is_a_/Place  

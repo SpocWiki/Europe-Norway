@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.13
 dv_has_place_latitude: 59.28
-dv_name: Sarpsborg
+dv_has_name_: Sarpsborg
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

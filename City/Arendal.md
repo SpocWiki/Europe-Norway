@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.8
 dv_has_place_latitude: 58.43
-dv_name: Arendal
+dv_has_name_: Arendal
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

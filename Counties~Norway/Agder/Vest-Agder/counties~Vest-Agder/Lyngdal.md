@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.12
 dv_has_place_latitude: 58.15
-dv_name: Lyngdal
+dv_has_name_: Lyngdal
 dv_Country: "[[../../../../../Norway]]"
 ---
 #is_a_/Place  

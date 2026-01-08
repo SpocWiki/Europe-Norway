@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.38
 dv_has_place_latitude: 67.28
-dv_name: Bodo
+dv_has_name_: Bodo
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

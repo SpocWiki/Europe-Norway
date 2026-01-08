@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.32
 dv_has_place_latitude: 59.15
-dv_name: Skudenaeshavn
+dv_has_name_: Skudenaeshavn
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

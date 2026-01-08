@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.43
 dv_has_place_latitude: 59.27
-dv_name: Tonsberg
+dv_has_name_: Tonsberg
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  

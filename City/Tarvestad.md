@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.25
 dv_has_place_latitude: 59.38
-dv_name: Tarvestad
+dv_has_name_: Tarvestad
 dv_Country: "[[../../Norway]]"
 ---
 #is_a_/Place  

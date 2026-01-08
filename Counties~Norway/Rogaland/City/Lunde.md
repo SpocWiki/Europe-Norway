@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.6
 dv_has_place_latitude: 58.45
-dv_name: Lunde
+dv_has_name_: Lunde
 dv_Country: "[[../../../../Norway]]"
 ---
 #is_a_/Place  
