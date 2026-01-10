@@ -67,7 +67,7 @@ coordinate_location: Point(9.073055555 57.847222222)
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 9
 dv_has_place_latitude: 58
-dv_has_name_: Skagerrak
+dv_has_name: Skagerrak
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Skagerrak,1695|WD~Skagerrak,1695]]"
 dv_is_same_as: "[[../../../../../../WikiData/WD~Skagerrak,1695|WD~Skagerrak,1695]]"
@@ -79,7 +79,7 @@ dv_is_same_as: "[[../../../../../../WikiData/WD~Skagerrak,1695|WD~Skagerrak,1695
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Norway]]  
 [StateId::] 
