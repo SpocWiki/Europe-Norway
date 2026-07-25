@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Norway,20|WD~Norway,20]]'
+  - '[[../../../../../WikiData/WD~Norway,20|WD~Norway,20]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]]'
@@ -391,7 +391,7 @@ dv_UNTERM_Chinese_Formal: 挪威王国
 dv_UNTERM_French_Formal: le Royaume de Norvège
 dv_UNTERM_Russian: Норвегия
 dv_UNTERM_Russian_Formal: Королевство Норвегия
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Norway]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -417,15 +417,15 @@ dv_ISO3: NOR
 dv_has_name_de: Norwegen
 dv_Area-Total: 323877
 dv_Area-Land: 306830
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: N
-dv_Capital: '[[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo|Oslo]]'
+dv_Capital: '[[../geo/Continent/Europe/Europe~North/Norway/Counties/Oslo|Oslo]]'
 dv_Alcohol-l: 7.8
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 11.4588
 dv_has_place_latitude: 61.8685
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Norway,20|WD~Norway,20]]'
+- '[[../../../../../WikiData/WD~Norway,20|WD~Norway,20]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]]'
@@ -759,7 +759,7 @@ demonym:
 - norsce
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 - '[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
@@ -929,7 +929,7 @@ maritime_identification_digits:
 marriageable_age: 18
 median_income: 51489
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Nordic_Council,146165|WD~Nordic_Council,146165]]'
 - '[[/_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
@@ -1098,7 +1098,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Norway)
-into a Subfolder named `Norway`, so that this Link into the Sub-Repository works: [[Norway/ReadMe|ReadMe]] 
+into a Subfolder named `Norway`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1112,17 +1112,17 @@ with numbers as of 2022-06
 
 | County                                                                                                               | Pop/k |   kkm² | GDP/GNOK | GDPpP/kNOK | HDI   | Notable Properties                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------- | ----: | -----: | -------: | ---------: | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Norway/Counties~Norway/Viken/Oslo,County\|Oslo]]                                                                   |  1032 |  0.454 |  721.287 |   1032.741 | 0.982 | Capital city; economic and political center                                                                                                  |
-| [[Norway/Counties~Norway/Viken\|Viken]]                                                                              |  1288 | 24.593 |  627.544 |    497.731 | 0.966 | Surrounds [[Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City\|Oslo]]; diverse economy                                                 |
-| [[Norway/Counties~Norway/Vestland\|Vestland]]                                                                        |   636 | 34.154 |  371.125 |    579.828 | 0.963 | Includes [[Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City\|Bergen]]; strong maritime industry               |
-| [[Norway/Counties~Norway/Rogaland\|Rogaland]]                                                                        |   484 |  9.377 |  320.980 |    662.880 | 0.958 | Oil and gas hub; includes [[Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger\|Stavanger]]                                                                               |
-| [[Norway/Counties~Norway/Trøndelag,Sør\|Sør-Trøndelag]] og [[Norway/Counties~Norway/Trøndelag,Nord\|Nord-Trøndelag]] |   478 | 42.202 |  265.700 |    562.174 | 0.961 | Includes [[Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim\|Trondheim]]; center for education and technology |
-| [[Norway/Counties~Norway/Vestfold\|Vestfold]] og [[Norway/Counties~Norway/Telemark\|Telemark]]                       |   417 | 17.466 |  208.058 |    491.445 | 0.936 | Coastal region; mix of industry and agriculture                                                                                              |
-| Innlandet ([[Norway/Counties~Norway/Hedmark\|Hedmark]] og [[Norway/Counties~Norway/Oppland\|Oppland]])               |   370 | 52.072 |  181.298 |    488.767 | 0.936 | Largest county by area; forests and agriculture                                                                                              |
-| [[Norway/Counties~Norway/Agder\|Agder]]                                                                              |   308 | 16.434 |  156.694 |    505.480 | 0.958 | Southern coast; tourism and renewable energy                                                                                                 |
-| [[Norway/Counties~Norway/Møre_og_Romsdal\|Møre og Romsdal]]                                                          |   265 | 15.104 |  145.277 |    546.770 | 0.963 | Fjords and mountains; maritime industries                                                                                                    |
-| [[Norway/Counties~Norway/Troms\|Troms]] og [[Norway/Counties~Norway/Finnmark\|Finnmark]]                             |   244 | 74.831 |  134.145 |    554.434 | 0.950 | Northernmost county; Arctic climate and indigenous Sami population                                                                           |
-| [[Norway/Counties~Norway/Nordland\|Nordland]]                                                                        |   239 | 38.456 |  131.210 |    546.093 | 0.950 | Long coastline; fisheries and aquaculture                                                                                                    |
+| [[Counties~Norway/Viken/Oslo,County/|Oslo]]                                                                   |  1032 |  0.454 |  721.287 |   1032.741 | 0.982 | Capital city; economic and political center                                                                                                  |
+| [[Counties~Norway/Viken/|Viken]]                                                                              |  1288 | 24.593 |  627.544 |    497.731 | 0.966 | Surrounds [[Counties~Norway/Viken/Oslo,County/City/Oslo,City/|Oslo]]; diverse economy                                                 |
+| [[Counties~Norway/Vestland/|Vestland]]                                                                        |   636 | 34.154 |  371.125 |    579.828 | 0.963 | Includes [[Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City/|Bergen]]; strong maritime industry               |
+| [[Counties~Norway/Rogaland/|Rogaland]]                                                                        |   484 |  9.377 |  320.980 |    662.880 | 0.958 | Oil and gas hub; includes [[Counties~Norway/Rogaland/counties~Rogaland/Stavanger/|Stavanger]]                                                                               |
+| [[Counties~Norway/Trøndelag,Sør/|Sør-Trøndelag]] og [[Counties~Norway/Trøndelag,Nord/|Nord-Trøndelag]] |   478 | 42.202 |  265.700 |    562.174 | 0.961 | Includes [[Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim/|Trondheim]]; center for education and technology |
+| [[Counties~Norway/Vestfold/|Vestfold]] og [[Counties~Norway/Telemark/|Telemark]]                       |   417 | 17.466 |  208.058 |    491.445 | 0.936 | Coastal region; mix of industry and agriculture                                                                                              |
+| Innlandet ([[Counties~Norway/Hedmark/|Hedmark]] og [[Counties~Norway/Oppland/|Oppland]])               |   370 | 52.072 |  181.298 |    488.767 | 0.936 | Largest county by area; forests and agriculture                                                                                              |
+| [[Counties~Norway/Agder/|Agder]]                                                                              |   308 | 16.434 |  156.694 |    505.480 | 0.958 | Southern coast; tourism and renewable energy                                                                                                 |
+| [[Counties~Norway/Møre_og_Romsdal/|Møre og Romsdal]]                                                          |   265 | 15.104 |  145.277 |    546.770 | 0.963 | Fjords and mountains; maritime industries                                                                                                    |
+| [[Counties~Norway/Troms/|Troms]] og [[Counties~Norway/Finnmark/|Finnmark]]                             |   244 | 74.831 |  134.145 |    554.434 | 0.950 | Northernmost county; Arctic climate and indigenous Sami population                                                                           |
+| [[Counties~Norway/Nordland/|Nordland]]                                                                        |   239 | 38.456 |  131.210 |    546.093 | 0.950 | Long coastline; fisheries and aquaculture                                                                                                    |
 
 ## #has_/properties 
 
@@ -1211,7 +1211,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Norway_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1248,15 +1248,15 @@ Major Cities with Population in 1000s as of @2024
 
 | City                                                                                        | County                                                  |    Pop/k |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------: |
-| [[Norway/Counties~Norway/Viken/Oslo,County/City/Oslo,City\|Oslo,City]]                            | [[Norway/Counties~Norway/Viken/Oslo,County\|Oslo,County]]     | 1098.061 |
-| [[Norway/Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City\|Bergen]] | [[Norway/Counties~Norway/Vestland\|Vestland]]           |  272.125 |
-| [[Norway/Counties~Norway/Rogaland/counties~Rogaland/Stavanger\|Stavanger]]/[[Sandnes]]                                            | [[Norway/Counties~Norway/Rogaland\|Rogaland]]           |  239.055 |
-| [[Norway/Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim\|Trondheim]]                          | [[Norway/Counties~Norway/Trøndelag,Sør\|Sør-Trøndelag]] |  198.777 |
-| [[Norway/Counties~Norway/Buskerud/City/Drammen\|Drammen]]                                   | [[Sweden/City/Viken\|Viken]]                            |  124.540 |
-| [[Fredrikstad]]/[[Norway/Counties~Norway/Østfold/City/Sarpsborg\|Sarpsborg]]                | Viken                                                   |  121.679 |
-| [[Porsgrunn]]/[[Norway/Counties~Norway/Telemark/City/Skien\|Skien]]                         | [[Norway/Counties~Norway/Telemark\|Telemark]]           |   96.695 |
-| [[Norway/Counties~Norway/Agder/Vest-Agder/City/Kristiansand\|Kristiansand]]                                                  | [[Norway/Counties~Norway/Agder/Vest-Agder\|Vest-Agder]]       |   67.372 |
-| [[Tønsberg]]                                                                                | [[Norway/Counties~Norway/Vestfold\|Vestfold]]           |   55.939 |
+| [[Counties~Norway/Viken/Oslo,County/City/Oslo,City/|Oslo,City]]                            | [[Counties~Norway/Viken/Oslo,County/|Oslo,County]]     | 1098.061 |
+| [[Counties~Norway/Vestland/Hordaland/counties~Hordaland/Bergen,County/City/Bergen,City/|Bergen]] | [[Counties~Norway/Vestland/|Vestland]]           |  272.125 |
+| [[Counties~Norway/Rogaland/counties~Rogaland/Stavanger/|Stavanger]]/[[Sandnes]]                                            | [[Counties~Norway/Rogaland/|Rogaland]]           |  239.055 |
+| [[Counties~Norway/Trøndelag,Sør/counties~Sør-Trøndelag/Trondheim/|Trondheim]]                          | [[Counties~Norway/Trøndelag,Sør/|Sør-Trøndelag]] |  198.777 |
+| [[Counties~Norway/Buskerud/City/Drammen/|Drammen]]                                   | [[../Sweden/City/Viken/|Viken]]                            |  124.540 |
+| [[Fredrikstad]]/[[Counties~Norway/Østfold/City/Sarpsborg/|Sarpsborg]]                | Viken                                                   |  121.679 |
+| [[Porsgrunn]]/[[Counties~Norway/Telemark/City/Skien/|Skien]]                         | [[Counties~Norway/Telemark/|Telemark]]           |   96.695 |
+| [[Counties~Norway/Agder/Vest-Agder/City/Kristiansand/|Kristiansand]]                                                  | [[Counties~Norway/Agder/Vest-Agder/|Vest-Agder]]       |   67.372 |
+| [[Tønsberg]]                                                                                | [[Counties~Norway/Vestfold/|Vestfold]]           |   55.939 |
 
 
 ## #has_/text_of_/abstract 
@@ -1290,7 +1290,7 @@ Major Cities with Population in 1000s as of @2024
 
 ![[Coat_of_arms_of_Norway.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Norway.mp3|Anthem-Norway.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Norway.mp3|Anthem-Norway.mp3]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
