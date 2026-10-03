@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.75
 dv_has_place_latitude: 63.12
 dv_has_name: Kristiansund
-dv_Country: "[[../../../../../../..]]"
+dv_Country: "[[../../../../../../../../Europe]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
